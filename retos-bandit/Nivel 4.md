@@ -2,8 +2,10 @@
 The password for the next level is stored in the only human-readable file in the **inhere** directory. Tip: if your terminal is messed up, try the “reset” command.
 
 ## Datos de acceso al nivel
-**bandit.labs.overthewire.org**
-**bandit4**
+**bandit.labs.overthewire.org**  
+
+**bandit4**  
+
 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 
 ## Solución

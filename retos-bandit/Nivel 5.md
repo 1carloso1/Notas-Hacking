@@ -5,8 +5,10 @@ human-readable
 not executable
 
 ## Datos de acceso al nivel
-**bandit.labs.overthewire.org**
-**bandit4**
+**bandit.labs.overthewire.org**  
+
+**bandit4**  
+
 lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 
 ## Solución

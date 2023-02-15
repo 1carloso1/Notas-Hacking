@@ -2,8 +2,10 @@
 The password for the next level is stored in the file **data.txt** in one of the few human-readable strings, preceded by several ‘=’ characters.
 
 ## Datos de acceso al nivel
-**bandit.labs.overthewire.org**
-**bandit9**
+**bandit.labs.overthewire.org**  
+
+**bandit9**  
+
 EN632PlfYiZbn3PhVK3XOGSlNInNE00t
 
 ## Solución

@@ -2,8 +2,10 @@
 The password for the next level is stored in a file called **spaces in this filename** located in the home directory
 
 ## Datos de acceso al nivel
-**bandit.labs.overthewire.org**
-**bandit2**
+**bandit.labs.overthewire.org**  
+
+**bandit2**  
+
 rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 
 ## Solución

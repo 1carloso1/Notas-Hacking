@@ -5,8 +5,10 @@ The password for the next level is stored **somewhere on the server** and has 
 -   33 bytes in size
 
 ## Datos de acceso al nivel
-**bandit.labs.overthewire.org**
-**bandit4**
+**bandit.labs.overthewire.org**  
+
+**bandit4**  
+  
 P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 
 ## Solución
