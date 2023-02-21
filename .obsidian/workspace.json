@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "797b05dc19d96732",
+        "id": "d683c31e978487ce",
         "type": "tabs",
         "children": [
           {
-            "id": "932a60e3b4c50648",
+            "id": "becdc4a439efc0a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Plantilla.md",
+                "file": "retos-bandit/Nivel 15.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Plantilla.md",
+                "file": "retos-bandit/Nivel 15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Plantilla.md",
+                "file": "retos-bandit/Nivel 15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Plantilla.md"
+                "file": "retos-bandit/Nivel 15.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "932a60e3b4c50648",
+  "active": "becdc4a439efc0a2",
   "lastOpenFiles": [
+    "retos-bandit/Nivel 13.md",
+    "retos-bandit/Nivel 15.md",
+    "retos-bandit/Nivel 14.md",
+    "retos-bandit/Nivel 12.md",
+    "retos-bandit/Nivel 11.md",
+    "retos-bandit/Nivel 10.md",
     "retos-bandit/Nivel 9.md",
+    "retos-bandit/Plantilla.md",
     "retos-bandit/Nivel 8.md",
-    "retos-bandit/Nivel 7.md",
-    "retos-bandit/Nivel 6.md",
-    "retos-bandit/Nivel 5.md",
-    "retos-bandit/Nivel 4.md",
-    "retos-bandit/Nivel 3.md",
-    "retos-bandit/Nivel 2.md",
-    "retos-bandit/Nivel 1.md",
-    "retos-bandit/Nivel 0.md"
+    "retos-bandit/Nivel 7.md"
   ]
 }
