@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d683c31e978487ce",
+        "id": "07287b66d5315e1b",
         "type": "tabs",
         "children": [
           {
-            "id": "becdc4a439efc0a2",
+            "id": "492dce32861d24a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Nivel 15.md",
+                "file": "retos-bandit/Nivel 20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21ee926e66d4ac40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Nivel 16.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Nivel 15.md",
+                "file": "retos-bandit/Nivel 16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Nivel 15.md",
+                "file": "retos-bandit/Nivel 16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Nivel 15.md"
+                "file": "retos-bandit/Nivel 16.md"
               }
             }
           }
@@ -146,17 +159,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "becdc4a439efc0a2",
+  "active": "21ee926e66d4ac40",
   "lastOpenFiles": [
-    "retos-bandit/Nivel 13.md",
+    "retos-bandit/Nivel 17.md",
+    "retos-bandit/Nivel 16.md",
     "retos-bandit/Nivel 15.md",
+    "retos-bandit/Nivel 18.md",
+    "retos-bandit/Nivel 19.md",
+    "retos-bandit/Nivel 21.md",
+    "retos-bandit/Nivel 20.md",
+    "retos-bandit/Nivel 13.md",
     "retos-bandit/Nivel 14.md",
-    "retos-bandit/Nivel 12.md",
-    "retos-bandit/Nivel 11.md",
-    "retos-bandit/Nivel 10.md",
-    "retos-bandit/Nivel 9.md",
-    "retos-bandit/Plantilla.md",
-    "retos-bandit/Nivel 8.md",
-    "retos-bandit/Nivel 7.md"
+    "retos-bandit/Plantilla.md"
   ]
 }
