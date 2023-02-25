@@ -33,4 +33,4 @@ Suconnect es el binario que se utilizo para producir una reverse shell que pudim
 En Netcat, el símbolo "&" se utiliza para ejecutar comandos en segundo plano. Cuando se utiliza "&" al final de un comando en la línea de comandos de Netcat, el comando se ejecuta en segundo plano, lo que significa que Netcat continuará ejecutándose y aceptando entradas de usuario mientras el comando se ejecuta en segundo plano. Un ejemplo de esto es cuando inciamos el listener, pudimos ejecutar en segundo plano el binario dado para obtener la contraseña siguiente
 
 ## Referencias 
-[Explicación del símbolo "&" en la línea de comandos de Unix/Linux (en inglés)](https://linuxize.com/post/how-to-run-linux-commands-in-background/)
+[](https://linuxize.com/post/how-to-run-linux-commands-in-background/)

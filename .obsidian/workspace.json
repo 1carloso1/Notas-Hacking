@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "07287b66d5315e1b",
+        "id": "51614eb3cad8309f",
         "type": "tabs",
         "children": [
           {
-            "id": "492dce32861d24a3",
+            "id": "f12a567960889cd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Nivel 20.md",
+                "file": "Primer Examen Parcial/Pico CTF 2019/Based.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "21ee926e66d4ac40",
+            "id": "42fbb842019a2b33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Nivel 16.md",
+                "file": "Primer Examen Parcial/Pico CTF 2019/plumbing.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Nivel 16.md",
+                "file": "Primer Examen Parcial/Pico CTF 2019/plumbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Nivel 16.md",
+                "file": "Primer Examen Parcial/Pico CTF 2019/plumbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Nivel 16.md"
+                "file": "Primer Examen Parcial/Pico CTF 2019/plumbing.md"
               }
             }
           }
@@ -159,17 +159,42 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "21ee926e66d4ac40",
+  "active": "42fbb842019a2b33",
   "lastOpenFiles": [
-    "retos-bandit/Nivel 17.md",
+    "Primer Examen Parcial/Plantilla 1.md",
+    "Primer Examen Parcial/Pico CTF 2019/plumbing.md",
+    "Primer Examen Parcial/Pico CTF 2019/Based.md",
+    "Primer Examen Parcial/Pico CTF 2019/codigos/based.py",
+    "Primer Examen Parcial/Pico CTF 2019/codigos",
+    "Primer Examen Parcial/Pico CTF 2019/Nueva carpeta",
+    "Based.md",
+    "Primer Examen Parcial/Pico CTF 2019/2Warm.md",
+    "Primer Examen Parcial/Pico CTF 2019/what's a net cat.md",
+    "Primer Examen Parcial/Pico CTF 2019/First Grep.md",
+    "retos-bandit/Nivel 10.md",
+    "Primer Examen Parcial/Pico CTF 2019/Lets Warm Up.md",
+    "Primer Examen Parcial/Pico CTF 2019/Bases.md",
+    "Primer Examen Parcial/Pico CTF 2019/prueba.py",
+    "Primer Examen Parcial/Pico CTF 2019/prueba",
+    "Primer Examen Parcial/Pico CTF 2019/based.py",
+    "Primer Examen Parcial/Pico CTF 2019/strings it.md",
+    "retos-bandit/Nivel 9.md",
+    "retos-bandit/Nivel 11.md",
+    "retos-bandit/Nivel 12.md",
+    "retos-bandit/Nivel 13.md",
+    "retos-bandit/Plantilla.md",
+    "Primer Examen Parcial/Pico CTF 2019/Warmed Up.md",
+    "retos-bandit/Nivel 20.md",
+    "Primer Examen Parcial/Pico CTF 2022",
+    "Primer Examen Parcial/Pico CTF 2021",
+    "Primer Examen Parcial/Pico CTF 2019",
+    "Primer Examen Parcial",
     "retos-bandit/Nivel 16.md",
+    "retos-bandit/Nivel 17.md",
     "retos-bandit/Nivel 15.md",
     "retos-bandit/Nivel 18.md",
     "retos-bandit/Nivel 19.md",
     "retos-bandit/Nivel 21.md",
-    "retos-bandit/Nivel 20.md",
-    "retos-bandit/Nivel 13.md",
-    "retos-bandit/Nivel 14.md",
-    "retos-bandit/Plantilla.md"
+    "retos-bandit/Nivel 14.md"
   ]
 }
