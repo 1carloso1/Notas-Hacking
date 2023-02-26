@@ -11,11 +11,88 @@
             "id": "74fb109fc6b70cf7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Primer Examen Parcial/Pico CTF 2021/Obedient Cat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cc500686a96aac8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Examen Parcial/Pico CTF 2021/Wave a flag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09fc44d8e6142ee6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Examen Parcial/Pico CTF 2021/Nice netcat....md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7a7f5e2557fe3f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Examen Parcial/Pico CTF 2021/Static ain't always noise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a327bdd78b58b513",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Examen Parcial/Pico CTF 2021/Tab, Tab, Attack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a68e7e76d78e004",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Examen Parcial/Pico CTF 2021/Magikarp Ground Mission.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce58bdc9cc4cd311",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -81,6 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +197,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -138,15 +219,25 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3599b95741041abe",
+  "active": "ce58bdc9cc4cd311",
   "lastOpenFiles": [
+    "picoCTF 2021/General Skills/Python Wrangling.md",
+    "Primer Examen Parcial/Plantilla 1.md",
+    "Primer Examen Parcial/Pico CTF 2021/Magikarp Ground Mission.md",
+    "picoCTF 2021/General Skills",
+    "Untitled",
+    "picoCTF 2021",
+    "Primer Examen Parcial/Pico CTF 2021/Tab, Tab, Attack.md",
+    "Primer Examen Parcial/Pico CTF 2021/Static ain't always noise.md",
+    "Primer Examen Parcial/Pico CTF 2021/Nice netcat....md",
+    "Primer Examen Parcial/Pico CTF 2021/Obedient Cat.md",
+    "Primer Examen Parcial/Pico CTF 2021/Wave a flag.md",
     "picoCFT 2019/General Skills/1_wanna_b3_a_r0ck5tar.md",
+    "picoCFT 2019/General Skills/flag_shop.md",
+    "README.md",
     "picoCFT 2019/General Skills/mus1c.md",
     "Primer Examen Parcial/Pico CTF 2019/Based.md",
     "retos-bandit/Nivel 20.md",
-    "Primer Examen Parcial/Plantilla 1.md",
-    "picoCFT 2019/General Skills/flag_shop.md",
-    "Untitled.md",
     "picoCFT 2019/General Skills",
     "picoCFT 2019/Nueva carpeta",
     "picoCFT 2019",
@@ -163,18 +254,8 @@
     "Based.md",
     "retos-bandit/Nivel 10.md",
     "Primer Examen Parcial/Pico CTF 2019/Lets Warm Up.md",
-    "Primer Examen Parcial/Pico CTF 2019/prueba.py",
-    "Primer Examen Parcial/Pico CTF 2019/prueba",
-    "Primer Examen Parcial/Pico CTF 2019/based.py",
     "retos-bandit/Nivel 9.md",
     "retos-bandit/Nivel 11.md",
-    "retos-bandit/Nivel 12.md",
-    "retos-bandit/Nivel 13.md",
-    "retos-bandit/Plantilla.md",
-    "Primer Examen Parcial/Pico CTF 2019/Warmed Up.md",
-    "retos-bandit/Nivel 16.md",
-    "retos-bandit/Nivel 17.md",
-    "retos-bandit/Nivel 15.md",
-    "retos-bandit/Nivel 18.md"
+    "retos-bandit/Nivel 12.md"
   ]
 }
