@@ -11,11 +11,40 @@
             "id": "df01941748ac8231",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Beginner picoMini 2022/General Skills/HashingJobApp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21249a623b52453f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beginner picoMini 2022/General Skills/PW Crack 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0efe46d52755af0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beginner picoMini 2022/General Skills/PW Crack 5.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Beginner picoMini 2022/General Skills/PW Crack 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Beginner picoMini 2022/General Skills/PW Crack 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Beginner picoMini 2022/General Skills/PW Crack 5.md"
+              }
             }
           }
         ]
@@ -130,7 +163,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": false,
+      "switcher:Abrir quick switcher": true,
       "graph:Abrir vista de gráfico": false,
       "canvas:Create new canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
@@ -138,13 +171,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "df01941748ac8231",
+  "active": "0efe46d52755af0e",
   "lastOpenFiles": [
-    "Primer Examen Parcial/Beginner PicoMini 2022/PW Crack 1.md",
+    "Beginner picoMini 2022/General Skills/PW Crack 4.md",
+    "Beginner picoMini 2022/General Skills/PW Crack 5.md",
     "Primer Examen Parcial/Beginner PicoMini 2022/PW Crack 3.md",
+    "Beginner picoMini 2022/General Skills/HashingJobApp.md",
+    "Beginner picoMini 2022/General Skills/Serpentine.md",
+    "Primer Examen Parcial/Plantilla 1.md",
+    "Beginner picoMini 2022/General Skills",
+    "Beginner picoMini 2022",
+    "Primer Examen Parcial/Beginner PicoMini 2022/PW Crack 1.md",
     "Primer Examen Parcial/Beginner PicoMini 2022/Glitch Cat.md",
     "Primer Examen Parcial/Beginner PicoMini 2022/PW Crack 2.md",
-    "Primer Examen Parcial/Plantilla 1.md",
     "Primer Examen Parcial/Beginner PicoMini 2022/runme.py.md",
     "Primer Examen Parcial/Beginner PicoMini 2022/fixme2.py.md",
     "Primer Examen Parcial/Beginner PicoMini 2022/fixme1.py.md",
@@ -162,19 +201,13 @@
     "Primer Examen Parcial/Pico CTF 2019/strings it.md",
     "Primer Examen Parcial/Pico CTF 2019/what's a net cat.md",
     "Primer Examen Parcial/Pico CTF 2019/plumbing.md",
-    "picoCTF 2021/General Skills/Python Wrangling.md",
     "picoCTF 2021/General Skills",
-    "Untitled",
     "picoCTF 2021",
-    "Primer Examen Parcial/Pico CTF 2021/Static ain't always noise.md",
-    "Primer Examen Parcial/Pico CTF 2021/Obedient Cat.md",
-    "Primer Examen Parcial/Pico CTF 2021/Wave a flag.md",
     "picoCFT 2019/General Skills",
     "picoCFT 2019/Nueva carpeta",
     "picoCFT 2019",
     "Nueva carpeta",
     "Primer Examen Parcial/Pico CTF 2019/codigos/based.py",
-    "Primer Examen Parcial/Pico CTF 2019/codigos",
-    "Primer Examen Parcial/Pico CTF 2019/Nueva carpeta"
+    "Primer Examen Parcial/Pico CTF 2019/codigos"
   ]
 }
