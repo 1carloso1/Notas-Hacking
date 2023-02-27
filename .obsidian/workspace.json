@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df01941748ac8231",
+            "id": "1148d1a566eff09f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beginner picoMini 2022/General Skills/HashingJobApp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21249a623b52453f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beginner picoMini 2022/General Skills/PW Crack 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0efe46d52755af0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beginner picoMini 2022/General Skills/PW Crack 5.md",
+                "file": "picoGym Exclusive/General Skills/Big Zip.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beginner picoMini 2022/General Skills/PW Crack 5.md",
+                "file": "picoGym Exclusive/General Skills/Big Zip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beginner picoMini 2022/General Skills/PW Crack 5.md",
+                "file": "picoGym Exclusive/General Skills/Big Zip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beginner picoMini 2022/General Skills/PW Crack 5.md"
+                "file": "picoGym Exclusive/General Skills/Big Zip.md"
               }
             }
           }
@@ -171,43 +146,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0efe46d52755af0e",
+  "active": "1148d1a566eff09f",
   "lastOpenFiles": [
-    "Beginner picoMini 2022/General Skills/PW Crack 4.md",
-    "Beginner picoMini 2022/General Skills/PW Crack 5.md",
-    "Primer Examen Parcial/Beginner PicoMini 2022/PW Crack 3.md",
-    "Beginner picoMini 2022/General Skills/HashingJobApp.md",
-    "Beginner picoMini 2022/General Skills/Serpentine.md",
+    "picoGym Exclusive/General Skills/First Find.md",
+    "picoGym Exclusive/General Skills/Big Zip.md",
     "Primer Examen Parcial/Plantilla 1.md",
+    "Untitled.md",
+    "picoGym Exclusive/General Skills",
+    "picoGym Exclusive",
+    "picoCTF 2021/Criptography/Mod 26.md",
+    "Primer Examen Parcial/Beginner PicoMini 2022/convertme.py.md",
+    "Primer Examen Parcial/Beginner PicoMini 2022/fixme1.py.md",
+    "Primer Examen Parcial/Pico CTF 2019/Based.md",
+    "Primer Examen Parcial/Pico CTF 2019/2Warm.md",
+    "Primer Examen Parcial/Pico CTF 2019/what's a net cat.md",
+    "Primer Examen Parcial/Pico CTF 2019/Warmed Up.md",
+    "Primer Examen Parcial/Pico CTF 2019/strings it.md",
+    "Primer Examen Parcial/Pico CTF 2019/plumbing.md",
+    "Primer Examen Parcial/Pico CTF 2019/Lets Warm Up.md",
+    "Primer Examen Parcial/Pico CTF 2019/First Grep.md",
+    "Primer Examen Parcial/Pico CTF 2019/Bases.md",
+    "picoCTF 2021/Forensics/Information.md",
+    "picoCTF 2021/Forensics",
+    "retos-bandit/Nivel 11.md",
+    "picoCTF 2021/Criptography",
+    "retos-bandit/Nivel 12.md",
+    "retos-bandit/Nivel 13.md",
+    "retos-bandit/Nivel 14.md",
+    "retos-bandit/Nivel 15.md",
+    "retos-bandit/Nivel 16.md",
+    "retos-bandit/Nivel 17.md",
+    "retos-bandit/Nivel 18.md",
+    "retos-bandit/Nivel 19.md",
     "Beginner picoMini 2022/General Skills",
     "Beginner picoMini 2022",
-    "Primer Examen Parcial/Beginner PicoMini 2022/PW Crack 1.md",
-    "Primer Examen Parcial/Beginner PicoMini 2022/Glitch Cat.md",
-    "Primer Examen Parcial/Beginner PicoMini 2022/PW Crack 2.md",
-    "Primer Examen Parcial/Beginner PicoMini 2022/runme.py.md",
-    "Primer Examen Parcial/Beginner PicoMini 2022/fixme2.py.md",
-    "Primer Examen Parcial/Beginner PicoMini 2022/fixme1.py.md",
-    "Primer Examen Parcial/Beginner PicoMini 2022/convertme.py.md",
-    "Primer Examen Parcial/Beginner PicoMini 2022/Codebook.md",
-    "Primer Examen Parcial/Pico CTF 2021/Nice netcat....md",
-    "Primer Examen Parcial/Pico CTF 2021/Magikarp Ground Mission.md",
-    "README.md",
-    "Primer Examen Parcial/Pico CTF 2021/Tab, Tab, Attack.md",
-    "Primer Examen Parcial/Pico CTF 2019/2Warm.md",
-    "Primer Examen Parcial/Pico CTF 2019/Based.md",
-    "Primer Examen Parcial/Pico CTF 2019/Bases.md",
-    "Primer Examen Parcial/Pico CTF 2019/First Grep.md",
-    "Primer Examen Parcial/Pico CTF 2019/Lets Warm Up.md",
-    "Primer Examen Parcial/Pico CTF 2019/strings it.md",
-    "Primer Examen Parcial/Pico CTF 2019/what's a net cat.md",
-    "Primer Examen Parcial/Pico CTF 2019/plumbing.md",
     "picoCTF 2021/General Skills",
     "picoCTF 2021",
     "picoCFT 2019/General Skills",
-    "picoCFT 2019/Nueva carpeta",
-    "picoCFT 2019",
-    "Nueva carpeta",
-    "Primer Examen Parcial/Pico CTF 2019/codigos/based.py",
-    "Primer Examen Parcial/Pico CTF 2019/codigos"
+    "picoCFT 2019/Nueva carpeta"
   ]
 }
