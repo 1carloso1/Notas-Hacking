@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "babc27fd9f5df96c",
+        "id": "8b6ece9339c67c6f",
         "type": "tabs",
         "children": [
           {
-            "id": "1148d1a566eff09f",
+            "id": "2307edd804c9c5fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoGym Exclusive/General Skills/Big Zip.md",
+                "file": "retos-bandit/Nivel 33.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "cf71fa68399afccc",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoGym Exclusive/General Skills/Big Zip.md",
+                "file": "retos-bandit/Nivel 33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoGym Exclusive/General Skills/Big Zip.md",
+                "file": "retos-bandit/Nivel 33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoGym Exclusive/General Skills/Big Zip.md"
+                "file": "retos-bandit/Nivel 33.md"
               }
             }
           }
@@ -146,38 +146,38 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1148d1a566eff09f",
+  "active": "2307edd804c9c5fa",
   "lastOpenFiles": [
-    "picoGym Exclusive/General Skills/First Find.md",
+    "retos-bandit/Nivel 32.md",
+    "retos-bandit/Nivel 33.md",
+    "retos-bandit/Nivel 31.md",
+    "Primer Examen Parcial/Beginner PicoMini 2022/PW Crack 1.md",
+    "retos-bandit/Nivel 24.md",
+    "retos-bandit/Nivel 30.md",
+    "retos-bandit/Nivel 26.md",
+    "retos-bandit/Nivel 27.md",
+    "retos-bandit/Nivel 28.md",
+    "retos-bandit/Nivel 29.md",
+    "retos-bandit/Nivel 23.md",
+    "retos-bandit/Nivel 19.md",
+    "retos-bandit/Nivel 16.md",
+    "retos-bandit/Nivel 25.md",
+    "retos-bandit/Nivel 15.md",
+    "Nivel 29.md",
+    "retos-bandit/Nivel 22.md",
+    "retos-bandit/Nivel 21.md",
+    "retos-bandit/Nivel 20.md",
+    "retos-bandit/Plantilla.md",
+    "Primer Examen Parcial/Beginner PicoMini 2022/fixme2.py.md",
+    "Primer Examen Parcial/Beginner PicoMini 2022/Glitch Cat.md",
+    "Primer Examen Parcial/Beginner PicoMini 2022/convertme.py.md",
+    "Primer Examen Parcial/Beginner PicoMini 2022/Codebook.md",
     "picoGym Exclusive/General Skills/Big Zip.md",
-    "Primer Examen Parcial/Plantilla 1.md",
-    "Untitled.md",
+    "picoGym Exclusive/General Skills/First Find.md",
     "picoGym Exclusive/General Skills",
     "picoGym Exclusive",
-    "picoCTF 2021/Criptography/Mod 26.md",
-    "Primer Examen Parcial/Beginner PicoMini 2022/convertme.py.md",
-    "Primer Examen Parcial/Beginner PicoMini 2022/fixme1.py.md",
-    "Primer Examen Parcial/Pico CTF 2019/Based.md",
-    "Primer Examen Parcial/Pico CTF 2019/2Warm.md",
-    "Primer Examen Parcial/Pico CTF 2019/what's a net cat.md",
-    "Primer Examen Parcial/Pico CTF 2019/Warmed Up.md",
-    "Primer Examen Parcial/Pico CTF 2019/strings it.md",
-    "Primer Examen Parcial/Pico CTF 2019/plumbing.md",
-    "Primer Examen Parcial/Pico CTF 2019/Lets Warm Up.md",
-    "Primer Examen Parcial/Pico CTF 2019/First Grep.md",
-    "Primer Examen Parcial/Pico CTF 2019/Bases.md",
-    "picoCTF 2021/Forensics/Information.md",
     "picoCTF 2021/Forensics",
-    "retos-bandit/Nivel 11.md",
     "picoCTF 2021/Criptography",
-    "retos-bandit/Nivel 12.md",
-    "retos-bandit/Nivel 13.md",
-    "retos-bandit/Nivel 14.md",
-    "retos-bandit/Nivel 15.md",
-    "retos-bandit/Nivel 16.md",
-    "retos-bandit/Nivel 17.md",
-    "retos-bandit/Nivel 18.md",
-    "retos-bandit/Nivel 19.md",
     "Beginner picoMini 2022/General Skills",
     "Beginner picoMini 2022",
     "picoCTF 2021/General Skills",
