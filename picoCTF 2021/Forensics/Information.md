@@ -41,7 +41,7 @@ picoCTF{the_m3tadata_1s_modified}
 ```
 
 ## Notas adicionales
-We can inspect the image metadata using the `exiftool`
+- We can inspect the image metadata using the `exiftool`
 
 
 ## Referencias 

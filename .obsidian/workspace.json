@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b6ece9339c67c6f",
+        "id": "d759ef65de9cc902",
         "type": "tabs",
         "children": [
           {
-            "id": "2307edd804c9c5fa",
+            "id": "b6f5f59ba5c5c626",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Nivel 33.md",
+                "file": "picoCTF 2021/Reverse Engineering/speeds and feeds.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,9 +85,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Nivel 33.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "picoCTF 2021/Reverse Engineering/speeds and feeds.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Nivel 33.md",
+                "file": "picoCTF 2021/Reverse Engineering/speeds and feeds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Nivel 33.md"
+                "file": "picoCTF 2021/Reverse Engineering/speeds and feeds.md"
               }
             }
           }
@@ -133,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -146,8 +146,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2307edd804c9c5fa",
+  "active": "b6f5f59ba5c5c626",
   "lastOpenFiles": [
+    "Primer Examen Parcial/Plantilla 1.md",
+    "picoCTF 2021/Reverse Engineering/speeds and feeds.md",
+    "picoCTF 2021/Reverse Engineering/vault-door-training.md",
+    "picoCTF 2021/Reverse Engineering/ARMssembly 0.md",
+    "picoCTF 2021/Reverse Engineering/keygenme-py.md",
+    "picoCTF 2021/Reverse Engineering/Transformation.md",
+    "picoCTF 2021/Forensics/Matryoshka doll.md",
+    "picoCTF 2021/Forensics/Information.md",
+    "picoCTF 2021/Criptography/Mod 26.md",
+    "picoCTF 2021/General Skills/Python Wrangling.md",
+    "picoCTF 2021/Reverse Engineering",
     "retos-bandit/Nivel 32.md",
     "retos-bandit/Nivel 33.md",
     "retos-bandit/Nivel 31.md",
@@ -164,16 +175,6 @@
     "retos-bandit/Nivel 25.md",
     "retos-bandit/Nivel 15.md",
     "Nivel 29.md",
-    "retos-bandit/Nivel 22.md",
-    "retos-bandit/Nivel 21.md",
-    "retos-bandit/Nivel 20.md",
-    "retos-bandit/Plantilla.md",
-    "Primer Examen Parcial/Beginner PicoMini 2022/fixme2.py.md",
-    "Primer Examen Parcial/Beginner PicoMini 2022/Glitch Cat.md",
-    "Primer Examen Parcial/Beginner PicoMini 2022/convertme.py.md",
-    "Primer Examen Parcial/Beginner PicoMini 2022/Codebook.md",
-    "picoGym Exclusive/General Skills/Big Zip.md",
-    "picoGym Exclusive/General Skills/First Find.md",
     "picoGym Exclusive/General Skills",
     "picoGym Exclusive",
     "picoCTF 2021/Forensics",
@@ -182,7 +183,6 @@
     "Beginner picoMini 2022",
     "picoCTF 2021/General Skills",
     "picoCTF 2021",
-    "picoCFT 2019/General Skills",
-    "picoCFT 2019/Nueva carpeta"
+    "picoCFT 2019/General Skills"
   ]
 }
