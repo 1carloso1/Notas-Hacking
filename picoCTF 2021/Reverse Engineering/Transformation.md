@@ -29,7 +29,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 7069636f4354467b31365f626974735f696e73743334645f6f665f385f64353263366239337d>>>
 ```
 
-- Utilizaremos [apidtables](https://www.rapidtables.com/convert/number/hex-to-ascii.html) para decodificar la cadena ASCII. Lo que nos dara la bandera:
+- Utilizaremos [rapidtables](https://www.rapidtables.com/convert/number/hex-to-ascii.html) para decodificar la cadena ASCII. Lo que nos dara la bandera:
 ```bash()
 picoCTF{16_bits_inst34d_of_8_d52c6b93}
 ```
@@ -40,5 +40,5 @@ picoCTF{16_bits_inst34d_of_8_d52c6b93}
 - `lstrip()` en Python se utiliza para cortar espacios o una cadena de caracteres especificada a la izquierda.
 
 ## Referencias 
-[# Guía de funciones de Python](https://www.freecodecamp.org/espanol/news/guia-de-funciones-de-python-con-ejemplos/#:~:text=ord()%20es%20una%20funci%C3%B3n,el%20c%C3%B3digo%20Unicode%20del%20car%C3%A1cter.)
-[# lstrip Python método ()](http://www.w3big.com/es/python/att-string-lstrip.html#gsc.tab=0)
+[Guía de funciones de Python](https://www.freecodecamp.org/espanol/news/guia-de-funciones-de-python-con-ejemplos/#:~:text=ord()%20es%20una%20funci%C3%B3n,el%20c%C3%B3digo%20Unicode%20del%20car%C3%A1cter.)
+[lstrip Python método ()](http://www.w3big.com/es/python/att-string-lstrip.html#gsc.tab=0)

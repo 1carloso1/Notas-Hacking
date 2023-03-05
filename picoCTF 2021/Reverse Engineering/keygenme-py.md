@@ -4,8 +4,7 @@
 ## Solución
 - Para poder obtener la flag de este problema no se necesita ejecutar el codigo dado, ya que no nos interesa su funcionalidad. Lo que nos interesa son algunas variables. Estas variables muestran de forma muy obvia que son fragmentos de la Flag. Pero hace falta una parte, esta parte la obtendremos a traves de la variable `username_trial` y con ayuda de algunas funciones de `hashlib`.
 - Casi al final del codigo podemos ver que el valor de la variable que nos falta esta codificado a traves de la variable  `username_trial`, y nos da la posicion de las letras codificadas. Por lo que estas posiciones nos serviran para pode realizar un form que de forma reversa obtenga el valor codificado.
-- Al obtener el valor, lo sumamos con las demas partes de la Flag para poder obtener la Flag 
-- completa.
+- Al obtener el valor, lo sumamos con las demas partes de la Flag para poder obtener la Flag completa.
 
 ```python()
 import hashlib
