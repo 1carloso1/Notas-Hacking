@@ -8,24 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f99238f894085dda",
+            "id": "21af582b31382483",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF 2021/Reverse Engineering/Shop.md",
+                "file": "picoCTF 2022/Reverse Engineering/GDB Test Drive.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f6bfdbe885bbda99",
+            "id": "9a0afc54d207480d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT 2019/Reverse Engineering/vault-door-1.md",
+                "file": "picoCFT 2019/Reverse Engineering/vault-door-training.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85e7f1116e1fc71b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF 2022/Reverse Engineering/file-run2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ce782df52b20f72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF 2022/Reverse Engineering/patchme.py.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCFT 2019/Reverse Engineering/vault-door-1.md",
+                "file": "picoCFT 2019/Reverse Engineering/vault-door-training.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCFT 2019/Reverse Engineering/vault-door-1.md",
+                "file": "picoCFT 2019/Reverse Engineering/vault-door-training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCFT 2019/Reverse Engineering/vault-door-1.md"
+                "file": "picoCFT 2019/Reverse Engineering/vault-door-training.md"
               }
             }
           }
@@ -159,43 +183,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f6bfdbe885bbda99",
+  "active": "9a0afc54d207480d",
   "lastOpenFiles": [
-    "picoCTF 2021/Reverse Engineering/Shop.md",
-    "picoCFT 2019/Reverse Engineering/vault-door-1.md",
+    "picoCTF 2022/Reverse Engineering/file-run2.md",
+    "picoCTF 2022/Reverse Engineering/patchme.py.md",
+    "picoCTF 2022/Reverse Engineering/GDB Test Drive.md",
+    "picoCFT 2019/Reverse Engineering/vault-door-training.md",
+    "picoCTF 2022/Reverse Engineering/unpackme.py.md",
+    "picoCTF 2022/Reverse Engineering/Safe Opener.md",
     "Primer Examen Parcial/Plantilla 1.md",
-    "picoCFT 2019/Reverse Engineering",
-    "picoCTF 2021/Reverse Engineering/Transformation.md",
+    "picoCTF 2022/Reverse Engineering/file-run1.md",
+    "retos-bandit/Nivel 22.md",
+    "Untitled.md",
+    "picoCTF 2022/Reverse Engineering",
+    "picoCTF 2022",
+    "retos-bandit/Nivel 25.md",
+    "retos-bandit/Nivel 28.md",
+    "retos-bandit/Nivel 27.md",
+    "retos-bandit/Nivel 26.md",
+    "retos-bandit/Nivel 29.md",
     "picoCTF 2021/Reverse Engineering/ARMssembly 0.md",
     "picoCTF 2021/Reverse Engineering/keygenme-py.md",
     "picoCTF 2021/Reverse Engineering/speeds and feeds.md",
-    "picoCTF 2021/Reverse Engineering/vault-door-training.md",
+    "picoCTF 2021/Reverse Engineering/Transformation.md",
+    "picoCTF 2021/Reverse Engineering/Shop.md",
+    "picoCFT 2019/Reverse Engineering/vault-door-1.md",
+    "picoCFT 2019/Reverse Engineering",
     "picoCTF 2021/Forensics/Matryoshka doll.md",
     "picoCTF 2021/Forensics/Information.md",
     "picoCTF 2021/Criptography/Mod 26.md",
     "picoCTF 2021/General Skills/Python Wrangling.md",
     "picoCTF 2021/Reverse Engineering",
     "retos-bandit/Nivel 32.md",
-    "retos-bandit/Nivel 33.md",
-    "retos-bandit/Nivel 31.md",
-    "Primer Examen Parcial/Beginner PicoMini 2022/PW Crack 1.md",
-    "retos-bandit/Nivel 24.md",
-    "retos-bandit/Nivel 30.md",
-    "retos-bandit/Nivel 26.md",
-    "retos-bandit/Nivel 27.md",
-    "retos-bandit/Nivel 28.md",
-    "retos-bandit/Nivel 29.md",
-    "retos-bandit/Nivel 23.md",
-    "retos-bandit/Nivel 19.md",
-    "retos-bandit/Nivel 16.md",
-    "retos-bandit/Nivel 25.md",
     "picoGym Exclusive/General Skills",
     "picoGym Exclusive",
     "picoCTF 2021/Forensics",
     "picoCTF 2021/Criptography",
     "Beginner picoMini 2022/General Skills",
-    "Beginner picoMini 2022",
-    "picoCTF 2021/General Skills",
-    "picoCTF 2021"
+    "Beginner picoMini 2022"
   ]
 }
