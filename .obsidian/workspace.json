@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "79046795ad91e4ad",
+        "id": "40fe5422dda8398e",
         "type": "tabs",
         "children": [
           {
-            "id": "77dbdda07f12a926",
+            "id": "3189a9cac8b54a71",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT 2019/Web Exploitation/picobrowser.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "picoCFT 2019/Web Exploitation/picobrowser.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "picoCFT 2019/Web Exploitation/picobrowser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "picoCFT 2019/Web Exploitation/picobrowser.md"
+              }
             }
           }
         ]
@@ -138,43 +146,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "77dbdda07f12a926",
+  "active": "3189a9cac8b54a71",
   "lastOpenFiles": [
+    "picoCFT 2019/Web Exploitation/where are the robots.md",
+    "picoCFT 2019/Web Exploitation/picobrowser.md",
+    "picoCFT 2019/Web Exploitation/logon.md",
+    "picoCFT 2019/Web Exploitation/Insp3ct0r.md",
+    "picoCFT 2019/Web Exploitation/dont-use-client-side.md",
+    "picoCFT 2019/Web Exploitation/Client-side-again.md",
+    "Primer Examen Parcial/Plantilla 1.md",
+    "picoCFT 2019/Reverse Engineering/vault-door-6.md",
+    "picoCFT 2019/Web Exploitation",
+    "picoCFT 2019/Reverse Engineering/vault-door-7.md",
+    "picoCTF 2021/Reverse Engineering/Transformation.md",
+    "picoCFT 2019/Reverse Engineering/Fresh Java.md",
+    "picoCFT 2019/Reverse Engineering/vault-door-3.md",
+    "picoCFT 2019/Reverse Engineering/vault-door-4.md",
+    "picoCFT 2019/Reverse Engineering/vault-door-5.md",
+    "picoCFT 2019/Reverse Engineering/vault-door-training.md",
+    "picoCFT 2019/Reverse Engineering/vault-door-1.md",
     "picoCTF 2022/Reverse Engineering/patchme.py.md",
     "picoCTF 2022/Reverse Engineering/GDB Test Drive.md",
     "picoCTF 2022/Reverse Engineering/Safe Opener.md",
     "picoCTF 2022/Reverse Engineering/file-run2.md",
     "picoCTF 2022/Reverse Engineering/unpackme.py.md",
     "picoCTF 2022/Reverse Engineering/file-run1.md",
-    "picoCFT 2019/Reverse Engineering/vault-door-training.md",
-    "Primer Examen Parcial/Plantilla 1.md",
     "retos-bandit/Nivel 22.md",
     "Untitled.md",
     "picoCTF 2022/Reverse Engineering",
     "picoCTF 2022",
     "retos-bandit/Nivel 25.md",
     "retos-bandit/Nivel 28.md",
-    "retos-bandit/Nivel 27.md",
-    "retos-bandit/Nivel 26.md",
-    "retos-bandit/Nivel 29.md",
-    "picoCTF 2021/Reverse Engineering/ARMssembly 0.md",
-    "picoCTF 2021/Reverse Engineering/keygenme-py.md",
-    "picoCTF 2021/Reverse Engineering/speeds and feeds.md",
-    "picoCTF 2021/Reverse Engineering/Transformation.md",
-    "picoCTF 2021/Reverse Engineering/Shop.md",
-    "picoCFT 2019/Reverse Engineering/vault-door-1.md",
     "picoCFT 2019/Reverse Engineering",
-    "picoCTF 2021/Forensics/Matryoshka doll.md",
-    "picoCTF 2021/Forensics/Information.md",
-    "picoCTF 2021/Criptography/Mod 26.md",
-    "picoCTF 2021/General Skills/Python Wrangling.md",
     "picoCTF 2021/Reverse Engineering",
-    "retos-bandit/Nivel 32.md",
     "picoGym Exclusive/General Skills",
     "picoGym Exclusive",
     "picoCTF 2021/Forensics",
     "picoCTF 2021/Criptography",
-    "Beginner picoMini 2022/General Skills",
-    "Beginner picoMini 2022"
+    "Beginner picoMini 2022/General Skills"
   ]
 }
