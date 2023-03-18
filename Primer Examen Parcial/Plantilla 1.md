@@ -1,6 +1,8 @@
 
 ## Descripción
 
+## Pistas
+
 ## Solución
 ```bash()
 
