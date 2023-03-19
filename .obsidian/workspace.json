@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5b2f9cff6924fba2",
+        "id": "b609be762154a6fe",
         "type": "tabs",
         "children": [
           {
-            "id": "a03cd34f778fb5cd",
+            "id": "0b55ae382d9f47a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF 2021/Web Exploitation/Scavenger Hunt.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF 2021/Web Exploitation/Scavenger Hunt.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF 2021/Web Exploitation/Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "picoCTF 2021/Web Exploitation/Scavenger Hunt.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,13 +138,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a03cd34f778fb5cd",
+  "active": "3599b95741041abe",
   "lastOpenFiles": [
+    "picoCFT 2019/Forensic/m00nwalk.md",
+    "picoCFT 2019/Forensic/WhitePages.md",
+    "picoCFT 2019/Forensic/What Lies Within.md",
+    "picoCFT 2019/Forensic/extensions.md",
+    "picoCFT 2019/Forensic/shark on wire 1.md",
+    "picoCFT 2019/Forensic/So Meta.md",
+    "picoCFT 2019/Forensic/Glory of the Garden.md",
+    "Primer Examen Parcial/Plantilla 1.md",
+    "picoCTF 2021/Web Exploitation/Scavenger Hunt.md",
+    "picoCFT 2019/Forensic",
     "D3m0nSquad---PicoCTF-2023/Cryptography/02 - ReadMyCert.md",
     "picoCTF 2021/Web Exploitation/Cookies.md",
-    "picoCTF 2021/Web Exploitation/Scavenger Hunt.md",
     "picoCTF 2021/Web Exploitation/GET aHEAD.md",
-    "Primer Examen Parcial/Plantilla 1.md",
     "D3m0nSquad---PicoCTF-2023/Forensics/01-hideme.md",
     "D3m0nSquad---PicoCTF-2023/Cryptography/01-rotation.md",
     "picoCTF 2021/Forensics/Matryoshka doll.md",
@@ -170,19 +170,11 @@
     "D3m0nSquad---PicoCTF-2023/General-Skills",
     "D3m0nSquad---PicoCTF-2023/Reverse Engineering/Safe Opener 2.md",
     "D3m0nSquad---PicoCTF-2023/Reverse Engineering/timer.md",
-    "D3m0nSquad---PicoCTF-2023/Reverse Engineering/Reverse.md",
-    "picoCFT 2019/Web Exploitation/JaWT Scratchpad.md",
     "D3m0nSquad---PicoCTF-2023/Reverse Engineering",
     "D3m0nSquad---PicoCTF-2023/Nueva carpeta",
-    "picoCFT 2019/Web Exploitation/Irish-Name-Repo 3.md",
-    "picoCFT 2019/Web Exploitation/Irish-Name-Repo 2.md",
-    "picoCFT 2019/Web Exploitation/Irish-Name-Repo 1.md",
-    "picoCFT 2019/Web Exploitation/logon.md",
-    "picoCFT 2019/Web Exploitation/Insp3ct0r.md",
     "picoCFT 2019/Web Exploitation",
     "picoCTF 2022/Reverse Engineering",
     "picoCTF 2022",
-    "picoCFT 2019/Reverse Engineering",
-    "picoCTF 2021/Reverse Engineering"
+    "picoCFT 2019/Reverse Engineering"
   ]
 }
