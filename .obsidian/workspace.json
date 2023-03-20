@@ -8,14 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b55ae382d9f47a1",
+            "id": "0bcf7ff072a465da",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "capturas/Pasted image 20230319104035.png"
+              }
+            }
+          },
+          {
+            "id": "4b11e4edb69f1a17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT 2019/Forensic/c0rrupt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fa0398a07f0b33d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT 2019/Forensic/like1000.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "119e5f87d6e82f57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT 2019/Forensic/shark on wire 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af3b43e2f2263aef",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "capturas/Pasted image 20230319201953.png"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "picoCFT 2019/Forensic/shark on wire 2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "picoCFT 2019/Forensic/shark on wire 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "picoCFT 2019/Forensic/shark on wire 2.md"
+              }
             }
           }
         ]
@@ -138,43 +191,51 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3599b95741041abe",
+  "active": "119e5f87d6e82f57",
   "lastOpenFiles": [
-    "picoCFT 2019/Forensic/m00nwalk.md",
-    "picoCFT 2019/Forensic/WhitePages.md",
-    "picoCFT 2019/Forensic/What Lies Within.md",
-    "picoCFT 2019/Forensic/extensions.md",
-    "picoCFT 2019/Forensic/shark on wire 1.md",
-    "picoCFT 2019/Forensic/So Meta.md",
-    "picoCFT 2019/Forensic/Glory of the Garden.md",
     "Primer Examen Parcial/Plantilla 1.md",
-    "picoCTF 2021/Web Exploitation/Scavenger Hunt.md",
-    "picoCFT 2019/Forensic",
-    "D3m0nSquad---PicoCTF-2023/Cryptography/02 - ReadMyCert.md",
-    "picoCTF 2021/Web Exploitation/Cookies.md",
-    "picoCTF 2021/Web Exploitation/GET aHEAD.md",
-    "D3m0nSquad---PicoCTF-2023/Forensics/01-hideme.md",
-    "D3m0nSquad---PicoCTF-2023/Cryptography/01-rotation.md",
-    "picoCTF 2021/Forensics/Matryoshka doll.md",
-    "picoCTF 2021/Forensics/Information.md",
-    "picoCTF 2021/Criptography/Mod 26.md",
-    "picoCTF 2021/Web Exploitation",
-    "D3m0nSquad---PicoCTF-2023/Plantilla.md",
-    "D3m0nSquad---PicoCTF-2023/Reverse-Engineering/03-timer.md",
-    "D3m0nSquad---PicoCTF-2023/Reverse-Engineering/02-Safe Opener 2.md",
+    "picoCFT 2019/Forensic/shark on wire 2.md",
+    "picoCFT 2019/Forensic/like1000.md",
+    "picoCFT 2019/Forensic/c0rrupt.md",
+    "picoCFT 2019/Forensic/WhitePages.md",
+    "capturas/Pasted image 20230319201953.png",
+    "capturas/mystery.png",
+    "capturas/784px-PNG-Gradient_hex.png",
+    "capturas/784px-PNG-Gradient_hex.png.crdownload",
+    "picoCFT 2019/Forensic/What Lies Within.md",
+    "capturas/Pasted image 20230319104035.png",
+    "picoCFT 2019/Forensic/m00nwalk.md",
+    "capturas",
+    "picoCFT 2019/Web Exploitation/Irish-Name-Repo 2.md",
+    "picoCFT 2019/Web Exploitation/Irish-Name-Repo 1.md",
+    "picoCFT 2019/Web Exploitation/Insp3ct0r.md",
+    "picoCFT 2019/Web Exploitation/dont-use-client-side.md",
+    "picoCFT 2019/Web Exploitation/Client-side-again.md",
+    "D3m0nSquad---PicoCTF-2023/Web-Exploitation/01-MatchTheRegex.md",
+    "D3m0nSquad---PicoCTF-2023/Web-Exploitation/Pasted image 20230318171224.png",
+    "D3m0nSquad---PicoCTF-2023/Web-Exploitation/Pasted image 20230318170954.png",
     "D3m0nSquad---PicoCTF-2023/Reverse-Engineering/01-Reverse.md",
+    "D3m0nSquad---PicoCTF-2023/Reverse-Engineering/02-Safe Opener 2.md",
+    "D3m0nSquad---PicoCTF-2023/Reverse-Engineering/04-Ready Gladiator 0.md",
+    "Untitled.canvas",
+    "D3m0nSquad---PicoCTF-2023/Reverse-Engineering/03-timer.md",
     "D3m0nSquad---PicoCTF-2023/General-Skills/02-repetitions.md",
+    "D3m0nSquad---PicoCTF-2023/Forensics/01-hideme.md",
     "D3m0nSquad---PicoCTF-2023/General-Skills/01-money-ware.md",
+    "D3m0nSquad---PicoCTF-2023/General-Skills/Pasted image 20230318164840.png",
+    "D3m0nSquad---PicoCTF-2023/General-Skills/05-useless.md",
+    "D3m0nSquad---PicoCTF-2023/General-Skills/04-Rules 2023.md",
+    "D3m0nSquad---PicoCTF-2023/General-Skills/03-Permissions.md",
     "D3m0nSquad---PicoCTF-2023/Forensics/02-who is it.md",
+    "D3m0nSquad---PicoCTF-2023/Cryptography/03-HideToSee.md",
+    "D3m0nSquad---PicoCTF-2023/Cryptography/02 - ReadMyCert.md",
+    "D3m0nSquad---PicoCTF-2023/Web-Exploitation",
+    "D3m0nSquad---PicoCTF-2023/Binary Exploitation",
     "D3m0nSquad---PicoCTF-2023/Reverse-Engineering",
     "D3m0nSquad---PicoCTF-2023/General-Skills",
-    "D3m0nSquad---PicoCTF-2023/Reverse Engineering/Safe Opener 2.md",
-    "D3m0nSquad---PicoCTF-2023/Reverse Engineering/timer.md",
-    "D3m0nSquad---PicoCTF-2023/Reverse Engineering",
-    "D3m0nSquad---PicoCTF-2023/Nueva carpeta",
-    "picoCFT 2019/Web Exploitation",
-    "picoCTF 2022/Reverse Engineering",
-    "picoCTF 2022",
-    "picoCFT 2019/Reverse Engineering"
+    "D3m0nSquad---PicoCTF-2023/Cryptography",
+    "D3m0nSquad---PicoCTF-2023/Forensics",
+    "D3m0nSquad---PicoCTF-2023",
+    "picoCFT 2019/Forensic"
   ]
 }
