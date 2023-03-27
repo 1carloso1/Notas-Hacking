@@ -4,67 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "b609be762154a6fe",
+        "id": "4bfa95f79cd65442",
         "type": "tabs",
         "children": [
           {
-            "id": "0bcf7ff072a465da",
+            "id": "18dfde85a0db2a1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Nivel 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae3ccf214de6770d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT 2019/Web Exploitation/where are the robots.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7c980dec2a16745",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoMini by redpwn/Web Exploitation/login.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2850f737b67f48ef",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "capturas/Pasted image 20230319104035.png"
-              }
-            }
-          },
-          {
-            "id": "4b11e4edb69f1a17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCFT 2019/Forensic/c0rrupt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fa0398a07f0b33d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCFT 2019/Forensic/like1000.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "119e5f87d6e82f57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCFT 2019/Forensic/shark on wire 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af3b43e2f2263aef",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "capturas/Pasted image 20230319201953.png"
+                "file": "capturas/abecedario-numerado-formas.jpg"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCFT 2019/Forensic/shark on wire 2.md",
+                "file": "picoMini by redpwn/Web Exploitation/login.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCFT 2019/Forensic/shark on wire 2.md",
+                "file": "picoMini by redpwn/Web Exploitation/login.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCFT 2019/Forensic/shark on wire 2.md"
+                "file": "picoMini by redpwn/Web Exploitation/login.md"
               }
             }
           }
@@ -191,51 +181,52 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "119e5f87d6e82f57",
+  "active": "d7c980dec2a16745",
   "lastOpenFiles": [
     "Primer Examen Parcial/Plantilla 1.md",
-    "picoCFT 2019/Forensic/shark on wire 2.md",
-    "picoCFT 2019/Forensic/like1000.md",
-    "picoCFT 2019/Forensic/c0rrupt.md",
-    "picoCFT 2019/Forensic/WhitePages.md",
-    "capturas/Pasted image 20230319201953.png",
-    "capturas/mystery.png",
-    "capturas/784px-PNG-Gradient_hex.png",
-    "capturas/784px-PNG-Gradient_hex.png.crdownload",
-    "picoCFT 2019/Forensic/What Lies Within.md",
-    "capturas/Pasted image 20230319104035.png",
-    "picoCFT 2019/Forensic/m00nwalk.md",
-    "capturas",
-    "picoCFT 2019/Web Exploitation/Irish-Name-Repo 2.md",
-    "picoCFT 2019/Web Exploitation/Irish-Name-Repo 1.md",
-    "picoCFT 2019/Web Exploitation/Insp3ct0r.md",
-    "picoCFT 2019/Web Exploitation/dont-use-client-side.md",
+    "picoMini by redpwn/Web Exploitation/login.md",
+    "picoCFT 2019/Web Exploitation/where are the robots.md",
+    "picoMini by redpwn/Web Exploitation",
+    "picoMini by redpwn",
+    "picoCFT 2019/Web Exploitation/picobrowser.md",
     "picoCFT 2019/Web Exploitation/Client-side-again.md",
-    "D3m0nSquad---PicoCTF-2023/Web-Exploitation/01-MatchTheRegex.md",
-    "D3m0nSquad---PicoCTF-2023/Web-Exploitation/Pasted image 20230318171224.png",
-    "D3m0nSquad---PicoCTF-2023/Web-Exploitation/Pasted image 20230318170954.png",
-    "D3m0nSquad---PicoCTF-2023/Reverse-Engineering/01-Reverse.md",
-    "D3m0nSquad---PicoCTF-2023/Reverse-Engineering/02-Safe Opener 2.md",
-    "D3m0nSquad---PicoCTF-2023/Reverse-Engineering/04-Ready Gladiator 0.md",
-    "Untitled.canvas",
-    "D3m0nSquad---PicoCTF-2023/Reverse-Engineering/03-timer.md",
-    "D3m0nSquad---PicoCTF-2023/General-Skills/02-repetitions.md",
+    "D3m0nSquad---PicoCTF-2023/General-Skills/06-chrono.md",
+    "D3m0nSquad---PicoCTF-2023/Plantilla.md",
+    "retos-bandit/Nivel 6.md",
+    "retos-bandit/Nivel 5.md",
+    "retos-bandit/Nivel 4.md",
+    "retos-bandit/Nivel 3.md",
+    "retos-bandit/Nivel 2.md",
+    "retos-bandit/Nivel 1.md",
+    "retos-bandit/Nivel 0.md",
+    "flag.md",
+    "picoCFT 2019/Cryptography/The Numbers.md",
+    "picoCFT 2019/Cryptography/Mr-Worldwide.md",
+    "capturas/abecedario-numerado-formas.jpg",
+    "D3m0nSquad---PicoCTF-2023/Cryptography/02 - ReadMyCert.md",
+    "D3m0nSquad---PicoCTF-2023/Cryptography/03-HideToSee.md",
+    "D3m0nSquad---PicoCTF-2023/Cryptography/01-rotation.md",
+    "D3m0nSquad---PicoCTF-2023/Forensics/02-who is it.md",
+    "picoCFT 2019/Cryptography",
     "D3m0nSquad---PicoCTF-2023/Forensics/01-hideme.md",
-    "D3m0nSquad---PicoCTF-2023/General-Skills/01-money-ware.md",
     "D3m0nSquad---PicoCTF-2023/General-Skills/Pasted image 20230318164840.png",
     "D3m0nSquad---PicoCTF-2023/General-Skills/05-useless.md",
+    "D3m0nSquad---PicoCTF-2023/General-Skills/01-money-ware.md",
+    "D3m0nSquad---PicoCTF-2023/General-Skills/02-repetitions.md",
     "D3m0nSquad---PicoCTF-2023/General-Skills/04-Rules 2023.md",
-    "D3m0nSquad---PicoCTF-2023/General-Skills/03-Permissions.md",
-    "D3m0nSquad---PicoCTF-2023/Forensics/02-who is it.md",
-    "D3m0nSquad---PicoCTF-2023/Cryptography/03-HideToSee.md",
-    "D3m0nSquad---PicoCTF-2023/Cryptography/02 - ReadMyCert.md",
+    "D3m0nSquad---PicoCTF-2023/Web-Exploitation/Pasted image 20230318171224.png",
+    "D3m0nSquad---PicoCTF-2023/Web-Exploitation/Pasted image 20230318170954.png",
     "D3m0nSquad---PicoCTF-2023/Web-Exploitation",
-    "D3m0nSquad---PicoCTF-2023/Binary Exploitation",
     "D3m0nSquad---PicoCTF-2023/Reverse-Engineering",
-    "D3m0nSquad---PicoCTF-2023/General-Skills",
     "D3m0nSquad---PicoCTF-2023/Cryptography",
+    "D3m0nSquad---PicoCTF-2023/General-Skills",
     "D3m0nSquad---PicoCTF-2023/Forensics",
+    "D3m0nSquad---PicoCTF-2023/Binary Exploitation",
     "D3m0nSquad---PicoCTF-2023",
-    "picoCFT 2019/Forensic"
+    "capturas/Pasted image 20230319201953.png",
+    "capturas/Pasted image 20230319104035.png",
+    "capturas/mystery.png",
+    "capturas/784px-PNG-Gradient_hex.png",
+    "Untitled.canvas"
   ]
 }
