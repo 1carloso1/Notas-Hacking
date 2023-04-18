@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4bfa95f79cd65442",
+        "id": "2ad7459ea87619c1",
         "type": "tabs",
         "children": [
           {
-            "id": "f544c178a3818836",
+            "id": "d3bf2b3e7ddddb1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,55 +20,79 @@
             }
           },
           {
-            "id": "b8ea7d6a07b69558",
+            "id": "28f3a9482493e1f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT 2019/Forensic/WebNet0.md",
+                "file": "picoCFT 2019/Cryptography/Easy1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d45703823b8e8f94",
+            "id": "38f3b76ffa4259d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT 2019/Forensic/WebNet1.md",
+                "file": "picoCFT 2019/Cryptography/13.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f008f623cda318bb",
+            "id": "5b091957e4d39b0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF 2021/Forensics/MacroHard WeakEdge.md",
+                "file": "picoCFT 2019/Cryptography/caesar.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "274a01e18941b28d",
+            "id": "b552d0ab98df3a35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF 2021/Forensics/tunn3l v1s10n.md",
+                "file": "picoCFT 2019/Cryptography/la cifra de.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1745afbd77e0f2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT 2019/Cryptography/Tapping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca25e99a25a0e1eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT 2019/Cryptography/waves over lambda.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -97,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Seguridad",
+                "query": "recursi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF 2021/Forensics/tunn3l v1s10n.md",
+                "file": "picoCFT 2019/Cryptography/waves over lambda.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -151,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF 2021/Forensics/tunn3l v1s10n.md",
+                "file": "picoCFT 2019/Cryptography/waves over lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF 2021/Forensics/tunn3l v1s10n.md"
+                "file": "picoCFT 2019/Cryptography/waves over lambda.md"
               }
             }
           }
@@ -195,45 +219,45 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "274a01e18941b28d",
+  "active": "ca25e99a25a0e1eb",
   "lastOpenFiles": [
+    "picoCFT 2019/Cryptography/caesar.md",
+    "picoCFT 2019/Cryptography/Easy1.md",
+    "picoCFT 2019/Cryptography/Tapping.md",
+    "picoCFT 2019/Cryptography/Mr-Worldwide.md",
+    "picoCFT 2019/Cryptography/waves over lambda.md",
     "Plantilla.md",
-    "picoCTF 2021/Forensics/tunn3l v1s10n.md",
+    "picoCFT 2019/Cryptography/la cifra de.md",
+    "picoCFT 2019/Cryptography/13.md",
+    "picoCTF 2021/Web Exploitation/Some Assembly Required 1.md",
+    "picoCTF 2021/Web Exploitation/Scavenger Hunt.md",
+    "picoCTF 2021/Web Exploitation/GET aHEAD.md",
+    "picoCTF 2021/Web Exploitation/Cookies.md",
+    "picoCTF 2021/Forensics/Wireshark twoo twooo two twoo....md",
+    "picoCTF 2021/Forensics/Trivial Flag Transfer Protocol.md",
+    "picoCFT 2023/Reverse-Engineering/03-timer.md",
+    "Primer Examen Parcial/Beginner PicoMini 2022/runme.py.md",
+    "Primer Examen Parcial/Beginner PicoMini 2022/PW Crack 3.md",
+    "Primer Examen Parcial/Beginner PicoMini 2022/PW Crack 2.md",
+    "Primer Examen Parcial/Beginner PicoMini 2022/PW Crack 1.md",
+    "Primer Examen Parcial/Beginner PicoMini 2022/Glitch Cat.md",
+    "Primer Examen Parcial/Beginner PicoMini 2022/fixme2.py.md",
+    "Primer Examen Parcial/Beginner PicoMini 2022/fixme1.py.md",
+    "Primer Examen Parcial/Beginner PicoMini 2022/convertme.py.md",
+    "Primer Examen Parcial/Beginner PicoMini 2022/Codebook.md",
     "picoCTF 2021/Forensics/MacroHard WeakEdge.md",
-    "picoCTF 2021/Forensics/Matryoshka doll.md",
-    "picoCFT 2019/Forensic/WebNet1.md",
-    "picoCFT 2019/Forensic/WebNet0.md",
-    "picoCFT 2023/General-Skills/02-repetitions.md",
-    "picoCFT 2023/General-Skills/03-Permissions.md",
-    "picoCFT 2023/General-Skills/01-money-ware.md",
-    "picoCTF 2022/Web Exploitation/Power Cookie.md",
+    "picoCTF 2021/Forensics/Information.md",
     "picoCFT 2023/Web-Exploitation/Pasted image 20230318171224.png",
     "picoCFT 2023/Web-Exploitation/Pasted image 20230318170954.png",
-    "picoCFT 2023/Web-Exploitation/01-MatchTheRegex.md",
     "picoCFT 2023/Web-Exploitation",
-    "picoCFT 2023/Reverse-Engineering/04-Ready Gladiator 0.md",
-    "picoCFT 2023/Reverse-Engineering/03-timer.md",
-    "picoCFT 2023/Reverse-Engineering/02-Safe Opener 2.md",
-    "picoCFT 2023/Reverse-Engineering/01-Reverse.md",
     "picoCFT 2023/Reverse-Engineering",
-    "picoCFT 2023/General-Skills/05-useless.md",
     "picoCFT 2023/General-Skills/Pasted image 20230318164840.png",
-    "picoCFT 2023/General-Skills/06-chrono.md",
-    "picoCFT 2023/General-Skills/04-Rules 2023.md",
     "picoCFT 2023/General-Skills",
-    "picoCFT 2023/Forensics/02-who is it.md",
-    "picoCFT 2023/Forensics/01-hideme.md",
     "picoCFT 2023/Forensics",
-    "picoCFT 2023/Cryptography/01-rotation.md",
-    "picoCFT 2023/Cryptography/03-HideToSee.md",
-    "picoCFT 2023/Cryptography/02 - ReadMyCert.md",
     "picoCFT 2023/Cryptography",
     "picoCFT 2023/Binary Exploitation",
     "picoCFT 2023",
     "Nueva carpeta",
-    "picoCTF 2022/Web Exploitation/Forbidden Paths.md",
-    "picoCTF 2022/Web Exploitation/Search source.md",
-    "picoCTF 2022/Web Exploitation/Local Authority.md",
     "picoCTF 2022/Web Exploitation",
     "picoMini by redpwn/Web Exploitation",
     "capturas/abecedario-numerado-formas.jpg",
