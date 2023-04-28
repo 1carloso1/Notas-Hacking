@@ -8,55 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab9d897279da7bed",
+            "id": "430ccf8113a54de3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plantilla.md",
+                "file": "picoCTF 2021/Criptography/Mind your Ps and Qs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4e4253a070a61e7f",
+            "id": "698b862a0c7e1642",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "picoCFT 2019/Cryptography/rsa-pop-quiz.md",
-                "mode": "source",
-                "source": false
+                "file": "capturas/abecedario-numerado-formas.jpg"
               }
             }
           },
           {
-            "id": "5193ebf2bac71b9e",
+            "id": "233e1b5f5f115caf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT 2019/Cryptography/miniRSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a99803e5c450fab7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCFT 2019/Cryptography/b00tl3gRSA2.md",
+                "file": "picoCTF 2022/Criptography/basic-mod1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCFT 2019/Cryptography/b00tl3gRSA2.md",
+                "file": "picoCTF 2022/Criptography/basic-mod1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCFT 2019/Cryptography/b00tl3gRSA2.md",
+                "file": "picoCTF 2022/Criptography/basic-mod1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCFT 2019/Cryptography/b00tl3gRSA2.md"
+                "file": "picoCTF 2022/Criptography/basic-mod1.md"
               }
             }
           }
@@ -183,12 +169,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a99803e5c450fab7",
+  "active": "233e1b5f5f115caf",
   "lastOpenFiles": [
+    "picoCFT 2023/Cryptography/rotation.md",
+    "picoCFT 2023/Cryptography/HideToSee.md",
+    "picoCFT 2023/Cryptography/ReadMyCert.md",
+    "picoCTF 2022/Criptography/basic-mod1.md",
+    "picoCTF 2021/Criptography/Mod 26.md",
     "picoCFT 2019/Cryptography/rsa-pop-quiz.md",
+    "picoCTF 2021/Criptography/Mind your Ps and Qs.md",
+    "capturas/abecedario-numerado-formas.jpg",
+    "capturas/20230319104035.png.md",
     "picoCFT 2019/Cryptography/miniRSA.md",
-    "picoCFT 2019/Cryptography/b00tl3gRSA2.md",
+    "picoCTF 2021/Criptography/Pixelated.md",
     "Plantilla.md",
+    "picoCTF 2022/Criptography",
+    "capturas/784px-PNG-Gradient_hex.png",
+    "capturas/Pasted image 20230319201953.png",
+    "capturas/Pasted image 20230319104035.png",
+    "capturas/Pasted.md",
+    "picoCFT 2019/Cryptography/b00tl3gRSA2.md",
     "README.md",
     "picoCTF 2021/Forensics/Wireshark twoo twooo two twoo....md",
     "Segundo Examen Parcial/picoCTF 2022/Forensics/Packets Primer.md",
@@ -202,35 +202,21 @@
     "Segundo Examen Parcial/picoCTF 2022/Forensics/St3g0.md",
     "Segundo Examen Parcial/picoCTF 2022/Web Exploitation/SQL Direct.md",
     "Segundo Examen Parcial/picoCTF 2022/Web Exploitation/Roboto Sans.md",
-    "Segundo Examen Parcial/picoCTF 2021/Forensics/Information.md",
     "Segundo Examen Parcial/picoCTF 2022/Forensics",
     "Segundo Examen Parcial/picoCTF 2021/Untitled",
     "Segundo Examen Parcial/picoCTF 2021/Forensics",
-    "Untitled.md",
     "Segundo Examen Parcial/picoCTF 2021",
     "Segundo Examen Parcial/picoCTF 2022/Web Exploitation",
     "Segundo Examen Parcial/picoCTF 2022",
     "Segundo Examen Parcial",
-    "picoCFT 2019/Cryptography/waves over lambda.md",
-    "picoCFT 2019/Cryptography/caesar.md",
-    "picoCFT 2019/Cryptography/Easy1.md",
-    "picoCFT 2019/Cryptography/Tapping.md",
-    "picoCFT 2019/Cryptography/Mr-Worldwide.md",
-    "picoCFT 2019/Cryptography/la cifra de.md",
-    "picoCFT 2019/Cryptography/13.md",
     "picoCFT 2023/Web-Exploitation/Pasted image 20230318171224.png",
     "picoCFT 2023/Web-Exploitation/Pasted image 20230318170954.png",
     "picoCFT 2023/Web-Exploitation",
     "picoCFT 2023/Reverse-Engineering",
     "picoCFT 2023/General-Skills/Pasted image 20230318164840.png",
-    "picoCFT 2023/General-Skills",
-    "capturas/abecedario-numerado-formas.jpg",
     "D3m0nSquad---PicoCTF-2023/General-Skills/Pasted image 20230318164840.png",
     "D3m0nSquad---PicoCTF-2023/Web-Exploitation/Pasted image 20230318171224.png",
     "D3m0nSquad---PicoCTF-2023/Web-Exploitation/Pasted image 20230318170954.png",
-    "capturas/Pasted image 20230319201953.png",
-    "capturas/Pasted image 20230319104035.png",
-    "capturas/mystery.png",
     "Untitled.canvas"
   ]
 }
