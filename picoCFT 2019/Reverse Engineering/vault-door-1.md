@@ -363,6 +363,8 @@ picoCTF{d35cr4mbl3_tH3_cH4r4cT3r5_f6daf4}
 ```
 
 ## Notas adicionales
-- Esta fue mi manera de encontrar la solción, probablemente no sea la mejor ni la mas facil de hacer, pero cumple su función.
+- Esta fue mi manera de encontrar la solución, probablemente no sea la mejor ni la mas facil de hacer, pero cumple su función.
+- - Solo se debe analizar el codigo y enfocarnos en los metodos que analizan la flag.
 
 ## Referencias 
+- Sin referencias.
