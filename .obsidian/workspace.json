@@ -8,31 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15dc3d1f3c358b67",
+            "id": "06cf8ac1eb2ed5f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT 2019/Reverse Engineering/vault-door-4.md",
+                "file": "picoCFT 2019/Reverse Engineering/asm1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a337442bb3a3672d",
+            "id": "cb2db882e97df65b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT 2019/Reverse Engineering/vault-door-3.md",
+                "file": "picoCFT 2019/Reverse Engineering/asm2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4260722d7471be3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT 2019/Reverse Engineering/asm3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,6 +89,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "61a6aefb7031fc2f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -98,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCFT 2019/Reverse Engineering/vault-door-3.md",
+                "file": "picoCFT 2019/Reverse Engineering/asm3.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCFT 2019/Reverse Engineering/vault-door-3.md",
+                "file": "picoCFT 2019/Reverse Engineering/asm3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCFT 2019/Reverse Engineering/vault-door-3.md"
+                "file": "picoCFT 2019/Reverse Engineering/asm3.md"
               }
             }
           }
@@ -159,20 +179,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a337442bb3a3672d",
+  "active": "4260722d7471be3d",
   "lastOpenFiles": [
-    "picoCFT 2019/Reverse Engineering/vault-door-4.md",
-    "picoCFT 2019/Reverse Engineering/vault-door-3.md",
-    "picoCFT 2019/Reverse Engineering/vault-door-training.md",
-    "picoCFT 2019/Reverse Engineering/vault-door-1.md",
+    "picoCFT 2019/Reverse Engineering/asm2.md",
+    "picoCFT 2019/Reverse Engineering/asm1.md",
+    "picoCFT 2019/Reverse Engineering/asm3.md",
     "Plantilla.md",
+    "().md",
     "picoCFT 2019/Reverse Engineering/vault-door-6.md",
     "picoCFT 2019/Reverse Engineering/vault-door-5.md",
+    "picoCFT 2019/Reverse Engineering/vault-door-7.md",
+    "picoCFT 2019/Reverse Engineering/vault-door-1.md",
+    "picoCFT 2019/Reverse Engineering/vault-door-3.md",
+    "picoCFT 2019/Reverse Engineering/vault-door-4.md",
+    "picoCFT 2019/Reverse Engineering/vault-door-training.md",
     "picoCFT 2019/Reverse Engineering/Fresh Java.md",
     "picoCTF 2022/Criptography/substitution0.md",
     "picoCTF 2022/Criptography/basic-mod2.md",
     "picoCTF 2022/Criptography/basic-mod1.md",
-    "().md",
     "picoCTF 2021/Criptography/Mini RSA.md",
     "picoCTF 2021/Criptography/Mind your Ps and Qs.md",
     "picoCFT 2023/Cryptography/rotation.md",
@@ -188,10 +212,6 @@
     "capturas/784px-PNG-Gradient_hex.png",
     "capturas/Pasted image 20230319201953.png",
     "capturas/Pasted image 20230319104035.png",
-    "capturas/Pasted.md",
-    "picoCFT 2019/Cryptography/b00tl3gRSA2.md",
-    "README.md",
-    "picoCTF 2021/Forensics/Wireshark twoo twooo two twoo....md",
     "Segundo Examen Parcial/picoCTF 2022/Forensics",
     "Segundo Examen Parcial/picoCTF 2021/Untitled",
     "Segundo Examen Parcial/picoCTF 2021/Forensics",
