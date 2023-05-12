@@ -11,5 +11,7 @@ What can you do with this file? I forgot the key to my safe but this file is sup
 ```
 
 ## Notas adicionales
+- Sin notas adicionales
 
 ## Referencias 
+- Sin referencias

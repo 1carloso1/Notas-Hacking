@@ -66,3 +66,4 @@ picoCTF{d3bugg3r_dr1v3_197c378a}
 - Solo se siguieron los pasos dados en la descripción.
 
 ## Referencias 
+- Sin referencias
