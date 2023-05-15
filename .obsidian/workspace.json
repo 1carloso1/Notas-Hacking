@@ -4,71 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "5dd1f7ade37aa47f",
+        "id": "5f0dcd52a19f9881",
         "type": "tabs",
         "children": [
           {
-            "id": "4260722d7471be3d",
+            "id": "006d6fe2dff59d88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF 2022/Reverse Engineering/GDB Test Drive.md",
+                "file": "picoCTF 2022/Binary Exploitation/buffer overflow 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "866441dd05962e9b",
+            "id": "49231f394d57a2d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT 2023/Reverse-Engineering/Safe Opener 2.md",
+                "file": "picoCTF 2022/Binary Exploitation/buffer overflow 0.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7cefa6d920c85acf",
+            "id": "33e7d1a503bd6fbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT 2019/Reverse Engineering/Need For Speed.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04b0a6d3e190f36b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plantilla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cb772d3654a5f5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCFT 2019/Reverse Engineering/reverse_cipher.md",
+                "file": "picoCTF 2022/Binary Exploitation/basic-file-exploit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "recursi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCFT 2019/Reverse Engineering/reverse_cipher.md",
+                "file": "picoCTF 2022/Binary Exploitation/buffer overflow 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCFT 2019/Reverse Engineering/reverse_cipher.md",
+                "file": "picoCTF 2022/Binary Exploitation/buffer overflow 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCFT 2019/Reverse Engineering/reverse_cipher.md"
+                "file": "picoCTF 2022/Binary Exploitation/buffer overflow 1.md"
               }
             }
           }
@@ -203,11 +178,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5cb772d3654a5f5d",
+  "active": "006d6fe2dff59d88",
   "lastOpenFiles": [
-    "picoCFT 2019/Reverse Engineering/Need For Speed.md",
-    "picoCFT 2019/Reverse Engineering/reverse_cipher.md",
+    "picoCTF 2022/Binary Exploitation/buffer overflow 0.md",
+    "picoCTF 2022/Binary Exploitation/basic-file-exploit.md",
+    "picoCTF 2022/Binary Exploitation/buffer overflow 1.md",
     "Plantilla.md",
+    "picoCTF 2022/Binary Exploitation",
+    "picoCFT 2019/Reverse Engineering/reverse_cipher.md",
+    "picoCFT 2019/Reverse Engineering/Need For Speed.md",
     "picoCFT 2023/Reverse-Engineering/Safe Opener 2.md",
     "picoCTF 2022/Reverse Engineering/GDB Test Drive.md",
     "picoCFT 2019/Reverse Engineering/asm3.md",
@@ -228,9 +207,6 @@
     "picoCTF 2021/Criptography/Mini RSA.md",
     "picoCTF 2021/Criptography/Mind your Ps and Qs.md",
     "picoCFT 2023/Cryptography/rotation.md",
-    "picoCFT 2023/Cryptography/HideToSee.md",
-    "picoCFT 2023/Cryptography/ReadMyCert.md",
-    "picoCTF 2021/Criptography/Mod 26.md",
     "capturas/abecedario-numerado-formas.jpg",
     "picoCTF 2022/Criptography",
     "capturas/784px-PNG-Gradient_hex.png",
@@ -246,7 +222,6 @@
     "picoCFT 2023/Web-Exploitation/Pasted image 20230318171224.png",
     "picoCFT 2023/Web-Exploitation/Pasted image 20230318170954.png",
     "picoCFT 2023/Web-Exploitation",
-    "picoCFT 2023/Reverse-Engineering",
     "picoCFT 2023/General-Skills/Pasted image 20230318164840.png",
     "D3m0nSquad---PicoCTF-2023/General-Skills/Pasted image 20230318164840.png",
     "D3m0nSquad---PicoCTF-2023/Web-Exploitation/Pasted image 20230318171224.png",
