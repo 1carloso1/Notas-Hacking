@@ -9,7 +9,7 @@ The name of the game is speed. Are you quick enough to solve this problem and ke
 - Usaremos `gdb` para ejecutar el programa y modificar la ejecucion dle programa de tal manera que podemamos alterar el valor de las variables o mandar llamar una funcion. Haremos un analisis mas dinamico.
 - Para ejecutar el archivo, tenemos que darle permisos al problema.
 - Ya ejecutado, utilizaremos el comando `(gdb) set disassembly-flavor intel` para ver la salida en formato intel.
-- Procederemos a desensamblar la funcion 'main', con el comando disassemble main`. Se nos mostrara
+- Procederemos a desensamblar la funcion 'main', con el comando `disassemble main`. Se nos mostrara
 
 ```bash()
   0x000000000000091a <+0>:     push   rbp

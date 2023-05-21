@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5f0dcd52a19f9881",
+        "id": "e7dd9cb984cc87e9",
         "type": "tabs",
         "children": [
           {
-            "id": "33e7d1a503bd6fbb",
+            "id": "b7e307ea62e9a6bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCFT 2019/Reverse Engineering/Need For Speed.md",
+                "file": "Tercer Examen Parcial/picoGym Exclusive/Binary Exploitation/Picker IV.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d49e464df166c4f3",
+            "id": "fd41c15dfd56771c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF 2021/Binary Exploitation/Stonks.md",
+                "file": "picoCTF 2022/Reverse Engineering/GDB Test Drive.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "181eb0f2bb0db562",
+            "id": "86e113133d525d06",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "call <",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,54 +180,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "181eb0f2bb0db562",
+  "active": "86e113133d525d06",
   "lastOpenFiles": [
-    "picoCFT 2019/Reverse Engineering/Need For Speed.md",
-    "picoCTF 2021/Binary Exploitation/Stonks.md",
-    "picoCFT 2019/Reverse Engineering/Fresh Java.md",
-    "picoCFT 2019/Reverse Engineering/asm1.md",
-    "picoCFT 2019/Reverse Engineering/asm2.md",
-    "picoCFT 2019/Reverse Engineering/asm3.md",
-    "picoCTF 2022/Binary Exploitation/basic-file-exploit.md",
-    "picoCTF 2022/Binary Exploitation/flag leak.md",
-    "Plantilla.md",
-    "picoCTF 2021/Untitled.md",
-    "picoCTF 2021/Binary Exploitation",
-    "picoCTF 2022/Binary Exploitation/buffer overflow 0.md",
     "picoCTF 2022/Binary Exploitation/buffer overflow 1.md",
-    "picoCTF 2022/Binary Exploitation",
-    "picoCFT 2019/Reverse Engineering/reverse_cipher.md",
-    "picoCFT 2023/Reverse-Engineering/Safe Opener 2.md",
+    "picoCTF 2022/Binary Exploitation/flag leak.md",
+    "picoCTF 2021/Binary Exploitation/Stonks.md",
+    "picoCTF 2022/Binary Exploitation/buffer overflow 0.md",
+    "picoCTF 2022/Binary Exploitation/basic-file-exploit.md",
+    "Tercer Examen Parcial/picoMini by redpwn/Binary Exploitation/clutter-overflow.md",
+    "Tercer Examen Parcial/picoGym Exclusive/Binary Exploitation/Local Target.md",
+    "Tercer Examen Parcial/picoGym Exclusive/Binary Exploitation/Picker IV.md",
     "picoCTF 2022/Reverse Engineering/GDB Test Drive.md",
-    "().md",
-    "picoCFT 2019/Reverse Engineering/vault-door-6.md",
-    "picoCFT 2019/Reverse Engineering/vault-door-5.md",
-    "picoCFT 2019/Reverse Engineering/vault-door-7.md",
-    "picoCFT 2019/Reverse Engineering/vault-door-1.md",
-    "picoCFT 2019/Reverse Engineering/vault-door-3.md",
-    "picoCFT 2019/Reverse Engineering/vault-door-4.md",
-    "picoCFT 2019/Reverse Engineering/vault-door-training.md",
-    "picoCTF 2022/Criptography/substitution0.md",
-    "picoCTF 2022/Criptography/basic-mod2.md",
-    "picoCTF 2022/Criptography/basic-mod1.md",
+    "Tercer Examen Parcial/picoCTF 2023/Binary Explotation/two-sum.md",
+    "README.md",
+    "Plantilla.md",
+    "Tercer Examen Parcial/picoMini by redpwn/Binary Exploitation",
+    "Tercer Examen Parcial/picoMini by redpwn",
+    "Tercer Examen Parcial/picoGym Exclusive/Binary Exploitation",
+    "Tercer Examen Parcial/picoGym Exclusive/Reverse Engineering/GDB baby step 2.md",
+    "picoCFT 2019/Reverse Engineering/Need For Speed.md",
+    "Tercer Examen Parcial/picoGym Exclusive/Reverse Engineering/Bit-O-Asm-3.md",
+    "Tercer Examen Parcial/picoGym Exclusive/Reverse Engineering/GDB baby step 1.md",
+    "Tercer Examen Parcial/picoGym Exclusive/Reverse Engineering/Bit-O-Asm-1.md",
+    "Tercer Examen Parcial/picoGym Exclusive/Reverse Engineering/Bit-O-Asm-2.md",
+    "Tercer Examen Parcial/Imagenes",
+    "Tercer Examen Parcial/Imagenes/debugger_A_asm.png",
+    "picoCFT 2019/Reverse Engineering/reverse_cipher.md",
+    "picoCFT 2019/Reverse Engineering/asm3.md",
+    "picoCFT 2019/Reverse Engineering/asm2.md",
+    "picoCFT 2019/Reverse Engineering/asm1.md",
+    "picoCFT 2023/Reverse-Engineering/04-Ready Gladiator 0.md",
+    "picoCFT 2023/Reverse-Engineering/Safe Opener 2.md",
+    "picoCFT 2023/Reverse-Engineering/03-timer.md",
+    "picoCFT 2023/Reverse-Engineering/01-Reverse.md",
+    "Tercer Examen Parcial/picoGym Exclusive/Reverse Engineering",
+    "Tercer Examen Parcial/picoGym Exclusive",
+    "Tercer Examen Parcial/picoCTF 2019/Reverse Engineering",
+    "Tercer Examen Parcial/picoCTF 2019/Cryptography",
+    "Tercer Examen Parcial/picoCTF 2019/Binary Explotation",
+    "Tercer Examen Parcial/picoCTF 2019",
+    "picoCFT 2019/imagenes/Pasted image 20230517182157.png",
     "capturas/abecedario-numerado-formas.jpg",
-    "picoCTF 2022/Criptography",
     "capturas/784px-PNG-Gradient_hex.png",
     "capturas/Pasted image 20230319201953.png",
     "capturas/Pasted image 20230319104035.png",
-    "Segundo Examen Parcial/picoCTF 2022/Forensics",
-    "Segundo Examen Parcial/picoCTF 2021/Untitled",
-    "Segundo Examen Parcial/picoCTF 2021/Forensics",
-    "Segundo Examen Parcial/picoCTF 2021",
-    "Segundo Examen Parcial/picoCTF 2022/Web Exploitation",
-    "Segundo Examen Parcial/picoCTF 2022",
-    "Segundo Examen Parcial",
     "picoCFT 2023/Web-Exploitation/Pasted image 20230318171224.png",
     "picoCFT 2023/Web-Exploitation/Pasted image 20230318170954.png",
     "picoCFT 2023/General-Skills/Pasted image 20230318164840.png",
     "D3m0nSquad---PicoCTF-2023/General-Skills/Pasted image 20230318164840.png",
-    "D3m0nSquad---PicoCTF-2023/Web-Exploitation/Pasted image 20230318171224.png",
-    "D3m0nSquad---PicoCTF-2023/Web-Exploitation/Pasted image 20230318170954.png",
     "Untitled.canvas"
   ]
 }
