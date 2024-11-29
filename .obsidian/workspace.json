@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB TIER 0-2/TIER 1/Responder(Windows).md",
+                "file": "HTB TIER 0-2/TIER 0/Dancing (Windows).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Responder(Windows)"
+              "title": "Dancing (Windows)"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB TIER 0-2/TIER 1/Responder(Windows).md",
+                "file": "HTB TIER 0-2/TIER 0/Dancing (Windows).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Responder(Windows)"
+              "title": "Enlaces entrantes de Dancing (Windows)"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB TIER 0-2/TIER 1/Responder(Windows).md",
+                "file": "HTB TIER 0-2/TIER 0/Dancing (Windows).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Responder(Windows)"
+              "title": "Enlaces salientes de Dancing (Windows)"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB TIER 0-2/TIER 1/Responder(Windows).md"
+                "file": "HTB TIER 0-2/TIER 0/Dancing (Windows).md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de Responder(Windows)"
+              "title": "Esquema de Dancing (Windows)"
             }
           }
         ]
@@ -164,6 +164,7 @@
   },
   "active": "a296a817ffdd21de",
   "lastOpenFiles": [
+    "HTB TIER 0-2/TIER 1/Responder(Windows).md",
     "HTB TIER 0-2/TIER 1/Appointment.md",
     "PicoCTF/picoCTF 2021/Forensics/tunn3l v1s10n.md",
     "images/htb.png",
@@ -184,7 +185,6 @@
     "HTB TIER 0-2/TIER 0/Dancing (Windows).md",
     "HTB TIER 0-2/TIER 0/Fawn (Linux).md",
     "HTB TIER 0-2/TIER 1/Three (Linux).md",
-    "HTB TIER 0-2/TIER 1/Responder(Windows).md",
     "HTB TIER 0-2/TIER 1/Sequel(Linux).md",
     "HTB TIER 0-2/TIER 1/Crocodile (Linux).md",
     "HTB TIER 0-2/TIER 2",
