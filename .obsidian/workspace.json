@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/picoCTF 2021/Forensics/tunn3l v1s10n.md",
+                "file": "HTB TIER 0-2/TIER 1/Responder(Windows).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tunn3l v1s10n"
+              "title": "Responder(Windows)"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/picoCTF 2021/Forensics/tunn3l v1s10n.md",
+                "file": "HTB TIER 0-2/TIER 1/Responder(Windows).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de tunn3l v1s10n"
+              "title": "Enlaces entrantes de Responder(Windows)"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/picoCTF 2021/Forensics/tunn3l v1s10n.md",
+                "file": "HTB TIER 0-2/TIER 1/Responder(Windows).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de tunn3l v1s10n"
+              "title": "Enlaces salientes de Responder(Windows)"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/picoCTF 2021/Forensics/tunn3l v1s10n.md"
+                "file": "HTB TIER 0-2/TIER 1/Responder(Windows).md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de tunn3l v1s10n"
+              "title": "Esquema de Responder(Windows)"
             }
           }
         ]
@@ -162,14 +162,39 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6181ff7264497ca2",
+  "active": "a296a817ffdd21de",
   "lastOpenFiles": [
+    "HTB TIER 0-2/TIER 1/Appointment.md",
+    "PicoCTF/picoCTF 2021/Forensics/tunn3l v1s10n.md",
+    "images/htb.png",
+    "images/htb 1.png",
+    "images/Captura_de_pantalla_2023-02-10_141836.png",
+    "images/Captura_de_pantalla_2023-02-10_141629.png",
+    "images/Captura_de_pantalla_2023-02-10_141440.png",
+    "images/Captura_de_pantalla_2023-02-10_140120.png",
+    "images/Captura_de_pantalla_2023-02-10_134904.png",
+    "images/Captura_de_pantalla_2023-02-10_134722.png",
+    "images/Captura_de_pantalla_2023-02-10_131748.png",
+    "images/Captura_de_pantalla_2023-02-10_131629.png",
+    "HTB TIER 0-2/TIER 2/Oopsie (Linux).md",
+    "HTB TIER 0-2/TIER 2/Vaccine(Linux).md",
+    "HTB TIER 0-2/TIER 2/Archetype (Windows).md",
+    "HTB TIER 0-2/TIER 0/Reedemer (Linux).md",
+    "HTB TIER 0-2/TIER 0/MEOW (Linux).md",
+    "HTB TIER 0-2/TIER 0/Dancing (Windows).md",
+    "HTB TIER 0-2/TIER 0/Fawn (Linux).md",
+    "HTB TIER 0-2/TIER 1/Three (Linux).md",
+    "HTB TIER 0-2/TIER 1/Responder(Windows).md",
+    "HTB TIER 0-2/TIER 1/Sequel(Linux).md",
+    "HTB TIER 0-2/TIER 1/Crocodile (Linux).md",
+    "HTB TIER 0-2/TIER 2",
+    "HTB TIER 0-2/TIER 0",
+    "HTB TIER 0-2/TIER 1",
+    "HTB TIER 0-2",
     "PicoCTF/picoCTF 2021/Forensics/Matryoshka doll.md",
     "PicoCTF/picoCTF 2021/Forensics/MacroHard WeakEdge.md",
     "PicoCTF/picoCTF 2021/Forensics/Information.md",
-    "images/moonwalk.png",
     "PicoCTF/picoCFT 2023/Web-Exploitation/01-MatchTheRegex.md",
-    "images/784px-PNG-Gradient_hex.png",
     "picoCFT 2023/General-Skills/04-Rules 2023.md",
     "PicoCTF/picoGym Exclusive/Reverse Engineering/GDB baby step 1.md",
     "PicoCTF/picoGym Exclusive/Reverse Engineering/Bit-O-Asm-4.md",
@@ -179,36 +204,11 @@
     "PicoCTF/picoGym Exclusive/Reverse Engineering/ASCII FTW.md",
     "PicoCTF/picoGym Exclusive/Reverse Engineering/Bit-O-Asm-1.md",
     "PicoCTF/picoGym Exclusive/General Skills/Big Zip.md",
-    "PicoCTF/picoGym Exclusive/Binary Exploitation/Picker IV.md",
-    "PicoCTF/picoGym Exclusive/General Skills/First Find.md",
-    "PicoCTF/picoGym Exclusive/Binary Exploitation/Local Target.md",
     "PicoCTF/picoGym Exclusive/Reverse Engineering",
     "PicoCTF/picoGym Exclusive/General Skills",
     "PicoCTF/picoGym Exclusive/Binary Exploitation",
     "PicoCTF/picoGym Exclusive",
-    "PicoCTF/picoCTF 2022/Web Exploitation/SQLiLite.md",
-    "PicoCTF/picoCTF 2022/Web Exploitation/SQL Direct.md",
-    "PicoCTF/picoCTF 2022/Web Exploitation/Secrets.md",
-    "PicoCTF/picoCTF 2022/Web Exploitation/Search source.md",
-    "PicoCTF/picoCTF 2022/Web Exploitation/Roboto Sans.md",
-    "PicoCTF/picoCTF 2022/Web Exploitation/Power Cookie.md",
-    "PicoCTF/picoCTF 2022/Web Exploitation/Local Authority.md",
-    "PicoCTF/picoCTF 2022/Web Exploitation/Forbidden Paths.md",
-    "PicoCTF/picoCTF 2022/Web Exploitation/Includes.md",
-    "PicoCTF/picoCTF 2022/Web Exploitation/Inspect HTML.md",
     "PicoCTF/picoCTF 2022/Web Exploitation",
-    "PicoCTF/picoCTF 2022/Forensics",
-    "PicoCTF/picoCTF 2022/Reverse Engineering",
-    "PicoCTF/picoCTF 2022/Binary Exploitation",
-    "PicoCTF/picoCTF 2022/Criptography",
-    "PicoCTF/picoCTF 2022",
-    "images/reto_ctf_we.png",
-    "images/hacking.gif",
-    "images/flags.png",
-    "images/flag_we.png",
-    "images/flag_corrupt.png",
-    "images/debugger_A_asm.png",
-    "images/abecedario-numerado-formas.jpg",
-    "images/Pasted image 20230318164840.png"
+    "PicoCTF/picoCTF 2022/Forensics"
   ]
 }
