@@ -1,5 +1,5 @@
 
-![Banner de Hacking](hacking.gif)
+![Banner de Hacking](images/hacking.gif)
 
 # **Bandit and PicoCTF Challenges**
 
