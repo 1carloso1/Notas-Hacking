@@ -4,7 +4,7 @@
 
 - Con nmap se encontro lo siguiente:
 
-![../../images/Captura de pantalla 2023-02-10 130458.png](Captura_de_pantalla_2023-02-10_130458.png)
+![../images/Captura de pantalla 2023-02-10 130458.png](Captura_de_pantalla_2023-02-10_130458.png)
 
 por lo que vemos que esta el puerto 445, por lo que podemos operar con smb
 
