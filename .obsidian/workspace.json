@@ -1,233 +1,169 @@
 {
   "main": {
-    "id": "c716f5cd0a94ffc9",
+    "id": "2365d9605b597565",
     "type": "split",
     "children": [
       {
-        "id": "e7dd9cb984cc87e9",
+        "id": "8331f8075f138e8a",
         "type": "tabs",
         "children": [
           {
-            "id": "b7e307ea62e9a6bf",
+            "id": "dad622046ad71da5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tercer Examen Parcial/picoGym Exclusive/Binary Exploitation/Picker IV.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "fd41c15dfd56771c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF 2022/Reverse Engineering/GDB Test Drive.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86e113133d525d06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF 2022/Binary Exploitation/flag leak.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f2c533a8dd504672",
+    "id": "dae8c3fa9d29dea5",
     "type": "split",
     "children": [
       {
-        "id": "2cd9a9e3dee6e59e",
+        "id": "5bb2d10d4e12852c",
         "type": "tabs",
         "children": [
           {
-            "id": "3599b95741041abe",
+            "id": "6181ff7264497ca2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
-            "id": "98345f9ea6544242",
+            "id": "ecce5efa1ad6e072",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "call <",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
-            "id": "877dbc6ccd74434b",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "61a6aefb7031fc2f",
+            "id": "3cb6e8bc73a754be",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      }
-    ],
-    "direction": "horizontal",
-    "width": 200
-  },
-  "right": {
-    "id": "cf71fa68399afccc",
-    "type": "split",
-    "children": [
-      {
-        "id": "252540ff3e91f779",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e0d9d2927e9bab3b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "picoCTF 2022/Binary Exploitation/flag leak.md",
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "010ecef1b90d4288",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "picoCTF 2022/Binary Exploitation/flag leak.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "c4a25ab29155167c",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "4210851e81aada2a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "picoCTF 2022/Binary Exploitation/flag leak.md"
-              }
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300
+  },
+  "right": {
+    "id": "2ae46c22c05713ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "8788167ba2e5c4a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea4e8137f69950fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de README"
+            }
+          },
+          {
+            "id": "dd9032dc8f9780e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de README"
+            }
+          },
+          {
+            "id": "9c974f4071174ccf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "147952fd55bf83c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": true,
-      "graph:Abrir vista de gráfico": false,
-      "canvas:Create new canvas": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "86e113133d525d06",
+  "active": "dad622046ad71da5",
   "lastOpenFiles": [
-    "picoCTF 2022/Binary Exploitation/buffer overflow 1.md",
-    "picoCTF 2022/Binary Exploitation/flag leak.md",
-    "picoCTF 2021/Binary Exploitation/Stonks.md",
-    "picoCTF 2022/Binary Exploitation/buffer overflow 0.md",
-    "picoCTF 2022/Binary Exploitation/basic-file-exploit.md",
-    "Tercer Examen Parcial/picoMini by redpwn/Binary Exploitation/clutter-overflow.md",
-    "Tercer Examen Parcial/picoGym Exclusive/Binary Exploitation/Local Target.md",
-    "Tercer Examen Parcial/picoGym Exclusive/Binary Exploitation/Picker IV.md",
-    "picoCTF 2022/Reverse Engineering/GDB Test Drive.md",
-    "Tercer Examen Parcial/picoCTF 2023/Binary Explotation/two-sum.md",
-    "README.md",
-    "Plantilla.md",
-    "Tercer Examen Parcial/picoMini by redpwn/Binary Exploitation",
-    "Tercer Examen Parcial/picoMini by redpwn",
-    "Tercer Examen Parcial/picoGym Exclusive/Binary Exploitation",
-    "Tercer Examen Parcial/picoGym Exclusive/Reverse Engineering/GDB baby step 2.md",
-    "picoCFT 2019/Reverse Engineering/Need For Speed.md",
-    "Tercer Examen Parcial/picoGym Exclusive/Reverse Engineering/Bit-O-Asm-3.md",
-    "Tercer Examen Parcial/picoGym Exclusive/Reverse Engineering/GDB baby step 1.md",
-    "Tercer Examen Parcial/picoGym Exclusive/Reverse Engineering/Bit-O-Asm-1.md",
-    "Tercer Examen Parcial/picoGym Exclusive/Reverse Engineering/Bit-O-Asm-2.md",
-    "Tercer Examen Parcial/Imagenes",
-    "Tercer Examen Parcial/Imagenes/debugger_A_asm.png",
-    "picoCFT 2019/Reverse Engineering/reverse_cipher.md",
-    "picoCFT 2019/Reverse Engineering/asm3.md",
-    "picoCFT 2019/Reverse Engineering/asm2.md",
-    "picoCFT 2019/Reverse Engineering/asm1.md",
-    "picoCFT 2023/Reverse-Engineering/04-Ready Gladiator 0.md",
-    "picoCFT 2023/Reverse-Engineering/Safe Opener 2.md",
-    "picoCFT 2023/Reverse-Engineering/03-timer.md",
-    "picoCFT 2023/Reverse-Engineering/01-Reverse.md",
-    "Tercer Examen Parcial/picoGym Exclusive/Reverse Engineering",
-    "Tercer Examen Parcial/picoGym Exclusive",
-    "Tercer Examen Parcial/picoCTF 2019/Reverse Engineering",
-    "Tercer Examen Parcial/picoCTF 2019/Cryptography",
-    "Tercer Examen Parcial/picoCTF 2019/Binary Explotation",
-    "Tercer Examen Parcial/picoCTF 2019",
-    "picoCFT 2019/imagenes/Pasted image 20230517182157.png",
-    "capturas/abecedario-numerado-formas.jpg",
-    "capturas/784px-PNG-Gradient_hex.png",
-    "capturas/Pasted image 20230319201953.png",
-    "capturas/Pasted image 20230319104035.png",
-    "picoCFT 2023/Web-Exploitation/Pasted image 20230318171224.png",
-    "picoCFT 2023/Web-Exploitation/Pasted image 20230318170954.png",
-    "picoCFT 2023/General-Skills/Pasted image 20230318164840.png",
-    "D3m0nSquad---PicoCTF-2023/General-Skills/Pasted image 20230318164840.png",
-    "Untitled.canvas"
+    "hacking.gif"
   ]
 }
