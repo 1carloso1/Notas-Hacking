@@ -92,19 +92,35 @@
             }
           },
           {
-            "id": "7d74312558b36223",
+            "id": "b7bbf128ba6d30e5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/abecedario-numerado-formas.jpg"
+                "file": "picoCFT 2019/Forensic/m00nwalk.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "abecedario-numerado-formas"
+              "icon": "lucide-file",
+              "title": "m00nwalk"
+            }
+          },
+          {
+            "id": "9349419f31b1690c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCFT 2023/General-Skills/04-Rules 2023.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04-Rules 2023"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -135,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pasted",
+                "query": "paste",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/abecedario-numerado-formas.jpg",
+                "file": "picoCFT 2023/General-Skills/04-Rules 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +202,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de abecedario-numerado-formas"
+              "title": "Enlaces entrantes de 04-Rules 2023"
             }
           },
           {
@@ -195,12 +211,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/abecedario-numerado-formas.jpg",
+                "file": "picoCFT 2023/General-Skills/04-Rules 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de abecedario-numerado-formas"
+              "title": "Enlaces salientes de 04-Rules 2023"
             }
           },
           {
@@ -222,10 +238,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/abecedario-numerado-formas.jpg"
+                "file": "picoCFT 2023/General-Skills/04-Rules 2023.md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de abecedario-numerado-formas"
+              "title": "Esquema de 04-Rules 2023"
             }
           }
         ]
@@ -245,26 +261,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7d74312558b36223",
+  "active": "9349419f31b1690c",
   "lastOpenFiles": [
-    "images/784px-PNG-Gradient_hex.png",
+    "images/reto_ctf_we.png",
+    "picoCFT 2023/General-Skills/04-Rules 2023.md",
+    "picoCFT 2019/Forensic/m00nwalk.md",
+    "images/moonwalk.png",
+    "images/hacking.gif",
+    "images/flags.png",
+    "images/flag_we.png",
+    "picoCFT 2023/Web-Exploitation/01-MatchTheRegex.md",
+    "picoCFT 2019/Cryptography/Flags.md",
     "images/flag_corrupt.png",
     "images/debugger_A_asm.png",
-    "images/flag_we.png",
-    "images/flags.png",
-    "images/hacking.gif",
-    "images/moonwalk.png",
-    "images/Pasted image 20230318164840.png",
-    "images/reto_ctf_we.png",
-    "picoCFT 2019/Forensic/m00nwalk.md",
-    "picoCFT 2023/General-Skills/04-Rules 2023.md",
-    "picoCFT 2019/Cryptography/Flags.md",
-    "picoCFT 2023/Web-Exploitation/01-MatchTheRegex.md",
-    "picoCFT 2019/Forensic/c0rrupt.md",
     "picoGym Exclusive/Reverse Engineering/GDB baby step 1.md",
+    "picoCFT 2019/Forensic/c0rrupt.md",
     "picoCFT 2019/Cryptography/The Numbers.md",
-    "picoCTF 2021/Forensics/tunn3l v1s10n.md",
+    "images/784px-PNG-Gradient_hex.png",
     "images/abecedario-numerado-formas.jpg",
+    "images/Pasted image 20230318164840.png",
+    "picoCTF 2021/Forensics/tunn3l v1s10n.md",
     "README.md",
     "picoCTF 2021/Web Exploitation/Some Assembly Required 1.md",
     "picoCTF 2021/Web Exploitation/GET aHEAD.md",
