@@ -1,4 +1,6 @@
-![[hacking.gif]]
+
+![Banner de Hacking](hacking.gif)
+
 # **Bandit and PicoCTF Challenges**
 
 Welcome! This repository contains detailed solutions and procedures for the **Bandit** and **PicoCTF** challenges, designed to help you improve your skills in **cybersecurity**, **pentesting**, and **information security** in general.
