@@ -21,7 +21,7 @@ Decode this [message](https://jupiter.challenges.picoctf.org/static/fc1edf07742
 
 - La imagen es recibida y decodificada por el programa:
 
-![[Pasted image 20230319104035.png]]
+![moonwalk](moonwalk.png)
 
 
 ```bash()

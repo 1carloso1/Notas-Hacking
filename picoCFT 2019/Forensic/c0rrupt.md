@@ -10,12 +10,12 @@ We found this [file](https://jupiter.challenges.picoctf.org/static/ab30fcb7d473
 - Gracias a un archivo `.png` de referencia, pude ver que es lo que se le debe modificar al archivo corrupto para que vuelva a ser un archivo funcional.
 - La foto de referencia es la siguiente:
 
-![[784px-PNG-Gradient_hex.png]]
+![referencia](784px-PNG-Gradient_hex.png)
 
 - Con ayuda de esta imagen pude modificar todo el encabezado, que en la imagen es la primera fila.
 - Despues de arreglar la imagen, la abrimos para ver la flag:
 
-![[Pasted image 20230319201953.png]]
+![flag](flag_corrupt.png)
 
 ```bash()
 picoCTF{c0rrupt10n_1847995}

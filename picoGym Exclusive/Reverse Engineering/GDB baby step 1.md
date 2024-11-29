@@ -8,7 +8,7 @@ Can you figure out what is in the `eax` register at the end of the `main` fu
 ## Solución
 - Para desensamblar el codigo, debemos darle permisos de ejecucion al programa `gdbdebugger_a` y luego ejecurlo con el comando `gdb debugger0_a`, que nos dira `(No debugging symbols found in debugger0_a)`, por lo que utilizaremos el comando `(gdb) layout asm` que nos mostrara:
 
-![[debugger_A_asm.png]]
+![debugger](debugger_A_asm.png)
 
 - Ya desensamblado, solo es cuestion de buscar la variable `eax`, que solo aparece una vez en el codigo, recibiendo el valor hexadecimal 0x86342, que en decimal seria 549698
 

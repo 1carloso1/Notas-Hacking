@@ -8,7 +8,7 @@ The [numbers](https://jupiter.challenges.picoctf.org/static/f209a32253affb6f547
 - Estos numeros no son deciamles que se puedan transformar en ASCII, si no que son las posiciones de la letra en el abecedario en ingles.
 - Por lo que solo tenemos que sustituir la el numero por la letra que le corresponde en el abecedario, yo me guie con esta imagen:
 
-![[abecedario-numerado-formas.jpg]]
+![abecedario](abecedario-numerado-formas.jpg)
 
 - por lo que la flag seria:
 ```bash()

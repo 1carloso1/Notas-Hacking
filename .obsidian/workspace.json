@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "picoCTF 2021/Web Exploitation/Some Assembly Required 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "b91de9a569ef1253",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCFT 2019/Forensic/c0rrupt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "c0rrupt"
+              "title": "Some Assembly Required 1"
             }
           }
         ]
@@ -107,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "picoCTF 2021/Web Exploitation/Some Assembly Required 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de README"
+              "title": "Enlaces entrantes de Some Assembly Required 1"
             }
           },
           {
@@ -126,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "picoCTF 2021/Web Exploitation/Some Assembly Required 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de README"
+              "title": "Enlaces salientes de Some Assembly Required 1"
             }
           },
           {
@@ -153,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "picoCTF 2021/Web Exploitation/Some Assembly Required 1.md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de README"
+              "title": "Esquema de Some Assembly Required 1"
             }
           }
         ]
@@ -178,10 +164,41 @@
   },
   "active": "dad622046ad71da5",
   "lastOpenFiles": [
-    "picoCFT 2019/Forensic/c0rrupt.md",
-    "README.md",
-    "picoCFT 2023/Cryptography/rotation.md",
-    "picoCFT 2023/Cryptography/HideToSee.md",
-    "images/hacking.gif"
+    "picoCTF 2021/Web Exploitation/GET aHEAD.md",
+    "picoCTF 2021/Web Exploitation/Scavenger Hunt.md",
+    "picoCTF 2021/Web Exploitation/Cookies.md",
+    "picoCTF 2021/Reverse Engineering/Transformation.md",
+    "picoCTF 2021/Reverse Engineering/speeds and feeds.md",
+    "picoCTF 2021/Reverse Engineering/Shop.md",
+    "picoCTF 2021/Reverse Engineering/keygenme-py.md",
+    "picoCTF 2021/Reverse Engineering/ARMssembly 0.md",
+    "picoCTF 2021/General Skills/Wave a flag.md",
+    "picoCTF 2021/General Skills/Tab, Tab, Attack.md",
+    "picoCTF 2021/General Skills/Static ain't always noise.md",
+    "picoCTF 2021/General Skills/Python Wrangling.md",
+    "picoCTF 2021/General Skills/Magikarp Ground Mission.md",
+    "picoCTF 2021/General Skills/Nice netcat....md",
+    "picoCTF 2021/Forensics/Wireshark twoo twooo two twoo....md",
+    "picoCTF 2021/Forensics/Wireshark doo dooo do doo....md",
+    "picoCTF 2021/Forensics/tunn3l v1s10n.md",
+    "picoCTF 2021/Forensics/Untitled.md",
+    "picoCTF 2021/Forensics/Trivial Flag Transfer Protocol.md",
+    "picoCTF 2021/Forensics/Matryoshka doll.md",
+    "picoCTF 2021/Forensics/MacroHard WeakEdge.md",
+    "picoCTF 2021/Forensics/Information.md",
+    "picoCTF 2021/Criptography/Pixelated.md",
+    "picoCTF 2021/Criptography/Mod 26.md",
+    "picoCTF 2021/Criptography/Mini RSA.md",
+    "picoCTF 2021/Criptography/Mind your Ps and Qs.md",
+    "images/reto_ctf_we.png",
+    "images/Pasted image 20230318164840.png",
+    "images/moonwalk.png",
+    "images/hacking.gif",
+    "images/flags.png",
+    "images/flag_we.png",
+    "images/flag_corrupt.png",
+    "images/debugger_A_asm.png",
+    "images/abecedario-numerado-formas.jpg",
+    "images/784px-PNG-Gradient_hex.png"
   ]
 }
