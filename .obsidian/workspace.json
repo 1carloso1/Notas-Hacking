@@ -11,10 +11,14 @@
             "id": "a296a817ffdd21de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/picoCTF 2021/Forensics/tunn3l v1s10n.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "tunn3l v1s10n"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PicoCTF/picoCTF 2021/Forensics/tunn3l v1s10n.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de tunn3l v1s10n"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PicoCTF/picoCTF 2021/Forensics/tunn3l v1s10n.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de tunn3l v1s10n"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "PicoCTF/picoCTF 2021/Forensics/tunn3l v1s10n.md"
+              },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de tunn3l v1s10n"
             }
           }
         ]
@@ -154,10 +162,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a296a817ffdd21de",
+  "active": "6181ff7264497ca2",
   "lastOpenFiles": [
-    "images/784px-PNG-Gradient_hex.png",
+    "PicoCTF/picoCTF 2021/Forensics/Matryoshka doll.md",
+    "PicoCTF/picoCTF 2021/Forensics/MacroHard WeakEdge.md",
+    "PicoCTF/picoCTF 2021/Forensics/Information.md",
     "images/moonwalk.png",
+    "PicoCTF/picoCFT 2023/Web-Exploitation/01-MatchTheRegex.md",
+    "images/784px-PNG-Gradient_hex.png",
     "picoCFT 2023/General-Skills/04-Rules 2023.md",
     "PicoCTF/picoGym Exclusive/Reverse Engineering/GDB baby step 1.md",
     "PicoCTF/picoGym Exclusive/Reverse Engineering/Bit-O-Asm-4.md",
@@ -184,9 +196,6 @@
     "PicoCTF/picoCTF 2022/Web Exploitation/Forbidden Paths.md",
     "PicoCTF/picoCTF 2022/Web Exploitation/Includes.md",
     "PicoCTF/picoCTF 2022/Web Exploitation/Inspect HTML.md",
-    "PicoCTF/picoCTF 2022/Forensics/Redaction gone wrong.md",
-    "PicoCTF/picoCTF 2022/Forensics/St3g0.md",
-    "PicoCTF/picoCTF 2022/Reverse Engineering/file-run2.md",
     "PicoCTF/picoCTF 2022/Web Exploitation",
     "PicoCTF/picoCTF 2022/Forensics",
     "PicoCTF/picoCTF 2022/Reverse Engineering",
