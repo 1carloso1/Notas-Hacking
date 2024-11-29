@@ -10,7 +10,7 @@ Welcome! This repository contains detailed solutions and procedures for the **Ba
 ### **Folder Structure**
 
 - `Bandit/`: Solutions for the levels of the Bandit cybersecurity game from OverTheWire.
-- `picoCTF/`: Scripts and explanations to solve PicoCTF challenges.
+- `PicoCTF/`: Scripts and explanations to solve PicoCTF challenges.
 
 ### **Included Resources**
 
