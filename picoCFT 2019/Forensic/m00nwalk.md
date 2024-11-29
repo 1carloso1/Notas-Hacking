@@ -21,7 +21,7 @@ Decode this [message](https://jupiter.challenges.picoctf.org/static/fc1edf07742
 
 - La imagen es recibida y decodificada por el programa:
 
-![moonwalk](moonwalk.png)
+![moonwalk](images/moonwalk.png)
 
 
 ```bash()

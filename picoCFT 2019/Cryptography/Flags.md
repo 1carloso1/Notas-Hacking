@@ -5,7 +5,7 @@ What do the [flags](https://jupiter.challenges.picoctf.org/static/fbeb5f9040d62
 - The flag is in the format PICOCTF{}
 
 ## Solución
-![flags](flags.png)
+![flags](images/flags.png)
 - Intuimos que la flag empieza como picoCTF{f----------ff}, la letra `f` la podemos intuir.
 - Si buscamos en internet [¿nternational maritime signal flags](https://en.wikipedia.org/wiki/International_maritime_signal_flags), podremos ver los nombre de las banderas y asi poder completar la bandera.
 - Si utilizamos la primera letra del nombre de la bandera, podemos saber que la bandera es:
