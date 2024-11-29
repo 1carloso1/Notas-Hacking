@@ -22,13 +22,10 @@ Each solution includes:
 - **Script or Command:** Code developed to solve the challenge.
 - **Results:** Expected output and how to validate the solution.
 
-<<<<<<< HEAD
-
-=======
 ## **Profiles**
 
 You can also check out my profiles on these platforms to see more of my cybersecurity work and achievements:
 
 - [**PicoCTF**](https://play.picoctf.org/users/YodaCholo)
 - [**TryHackMe**](https://tryhackme.com/r/p/YodaCholo)
->>>>>>> 4bf19176a51edca9aaa2ae1a507080adad1239ac
+
